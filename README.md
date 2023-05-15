@@ -50,7 +50,7 @@ The dataset covers the following NLP tasks:
 To get started with the Radiation Oncology NLP Database, follow these steps:
 
 1. Clone the repository
-git clone https://github.com/your_username_/radiation-oncology-nlp-database.git
+git clone https://github.com/zl-liu/Radiation-Oncology-NLP-Database.git
 
 2. Install required packages (optional)
 pip install -r requirements.txt
