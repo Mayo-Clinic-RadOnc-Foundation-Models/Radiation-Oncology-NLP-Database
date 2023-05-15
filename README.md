@@ -14,7 +14,7 @@
         <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/logo2.png" width="100" height="100" alt="Logo2">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/logo3.png" width="100" height="100" alt="Logo3">
+        <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/logo.png" width="100" height="100" alt="Logo3">
       </td>
     </tr>
   </table>
