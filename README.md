@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo.mp4" width="200" height="200" autoplay muted loop playsinline>
+  <video src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo-animated.mp4" width="200" height="200" autoplay muted loop playsinline>
   Your browser does not support the video tag.
   </video>
 </p>
