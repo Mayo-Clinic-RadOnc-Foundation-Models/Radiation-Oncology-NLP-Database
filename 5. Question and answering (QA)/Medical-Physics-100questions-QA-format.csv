@@ -1,0 +1,403 @@
+Question,Answer_choice,Correct_or_not
+1. Which of the following particles cannot be accelerated by an electric field?,A. Protons,0
+1. Which of the following particles cannot be accelerated by an electric field?,B. Electrons,0
+1. Which of the following particles cannot be accelerated by an electric field?,C. Neutrons,1
+1. Which of the following particles cannot be accelerated by an electric field?,D. Positrons,0
+2. The mass of Carbon-12 (12C) is ___ than the sum of the masses of 6 protons and 6 neutrons.,A. slightly smaller,1
+2. The mass of Carbon-12 (12C) is ___ than the sum of the masses of 6 protons and 6 neutrons.,B. slightly larger,0
+2. The mass of Carbon-12 (12C) is ___ than the sum of the masses of 6 protons and 6 neutrons.,C. equal to,0
+2. The mass of Carbon-12 (12C) is ___ than the sum of the masses of 6 protons and 6 neutrons.,D. All of the above are possible.,0
+"3. The binding energies for tungsten’s K, L, and M shells are 70, 11, and 2 keV, respectively. A 50 keV photon interacts with tungsten through the photoelectric effect. What are the possible energies of the emitted photoelectron?",A. a continuous spectrum from 2 keV to 70 keV,0
+"3. The binding energies for tungsten’s K, L, and M shells are 70, 11, and 2 keV, respectively. A 50 keV photon interacts with tungsten through the photoelectric effect. What are the possible energies of the emitted photoelectron?",B. 39 keV and 48 keV,1
+"3. The binding energies for tungsten’s K, L, and M shells are 70, 11, and 2 keV, respectively. A 50 keV photon interacts with tungsten through the photoelectric effect. What are the possible energies of the emitted photoelectron?","C. 9 keV, 59 keV and 68 keV",0
+"3. The binding energies for tungsten’s K, L, and M shells are 70, 11, and 2 keV, respectively. A 50 keV photon interacts with tungsten through the photoelectric effect. What are the possible energies of the emitted photoelectron?",D. 9 keV,0
+4. Which of the following statements is true regarding the x-ray spectrum of an x-ray tube?,A. The maximum photon energy is determined by the kVp.,1
+4. Which of the following statements is true regarding the x-ray spectrum of an x-ray tube?,B. The maximum photon energy is determined by the target material.,0
+4. Which of the following statements is true regarding the x-ray spectrum of an x-ray tube?,C. The characteristic photon energies are determined by the tube current.,0
+4. Which of the following statements is true regarding the x-ray spectrum of an x-ray tube?,D. The characteristic photon energies are determined by the filtration.,0
+5. The half value layer (HVL) for an x-ray beam is 2 mm aluminum. What is the minimum thickness of aluminum required to reduce the x-ray exposure by 50%?,A. 1 mm,0
+5. The half value layer (HVL) for an x-ray beam is 2 mm aluminum. What is the minimum thickness of aluminum required to reduce the x-ray exposure by 50%?,B. 2 mm,1
+5. The half value layer (HVL) for an x-ray beam is 2 mm aluminum. What is the minimum thickness of aluminum required to reduce the x-ray exposure by 50%?,C. 3 mm,0
+5. The half value layer (HVL) for an x-ray beam is 2 mm aluminum. What is the minimum thickness of aluminum required to reduce the x-ray exposure by 50%?,D. 4 mm,0
+6. Which of the following component provides the high-power RF fields to accelerate electrons in a LINAC?,A. Thyratron,0
+6. Which of the following component provides the high-power RF fields to accelerate electrons in a LINAC?,B. Target,0
+6. Which of the following component provides the high-power RF fields to accelerate electrons in a LINAC?,C. Electron gun,0
+6. Which of the following component provides the high-power RF fields to accelerate electrons in a LINAC?,D. Magnetron,1
+7. What is the purpose of the “tongue and groove” design of multileaf collimator (MLC)?,A. Reduce frictions between leaves.,0
+7. What is the purpose of the “tongue and groove” design of multileaf collimator (MLC)?,B. Reduce leakage doses between leaves.,1
+7. What is the purpose of the “tongue and groove” design of multileaf collimator (MLC)?,C. Increase speed of leaves.,0
+7. What is the purpose of the “tongue and groove” design of multileaf collimator (MLC)?,D. Increase field sizes for treatments.,0
+"8. When a LINAC is used to treat patients in electron mode, which of the following hardware is not needed?",A. Target,1
+"8. When a LINAC is used to treat patients in electron mode, which of the following hardware is not needed?",B. Electron gun,0
+"8. When a LINAC is used to treat patients in electron mode, which of the following hardware is not needed?",C. Monitor chamber,0
+"8. When a LINAC is used to treat patients in electron mode, which of the following hardware is not needed?",D. Scattering foil,0
+"9. Compared to a flattened beam, the flattening filter free beam ___.",A. Has higher average energy.,0
+"9. Compared to a flattened beam, the flattening filter free beam ___.",B. Is more penetrating.,0
+"9. Compared to a flattened beam, the flattening filter free beam ___.",C. Has a higher dose rate.,1
+"9. Compared to a flattened beam, the flattening filter free beam ___.",D. Increases treatment time.,0
+10. The mass attenuation coefficient has the highest dependence on the atomic number of the medium and the energy of the incoming photon energy for ___.,A. Photoelectric effect,1
+10. The mass attenuation coefficient has the highest dependence on the atomic number of the medium and the energy of the incoming photon energy for ___.,B. Compton scattering,0
+10. The mass attenuation coefficient has the highest dependence on the atomic number of the medium and the energy of the incoming photon energy for ___.,C. Pair production,0
+10. The mass attenuation coefficient has the highest dependence on the atomic number of the medium and the energy of the incoming photon energy for ___.,D. Rayleigh scatter,0
+11. Which of the following is not an interaction between photons and a medium?,A. Photoelectric effect,0
+11. Which of the following is not an interaction between photons and a medium?,B. Compton scattering,0
+11. Which of the following is not an interaction between photons and a medium?,C. Pair production,0
+11. Which of the following is not an interaction between photons and a medium?,D. Bremsstrahlung,1
+"12. When the energy of the scattered photon is the minimum in a Compton interaction, what is the angle of the emitted Compton electron relative to the direction of the initial photon?",A. 0o,1
+"12. When the energy of the scattered photon is the minimum in a Compton interaction, what is the angle of the emitted Compton electron relative to the direction of the initial photon?",B. 45o,0
+"12. When the energy of the scattered photon is the minimum in a Compton interaction, what is the angle of the emitted Compton electron relative to the direction of the initial photon?",C. 90o,0
+"12. When the energy of the scattered photon is the minimum in a Compton interaction, what is the angle of the emitted Compton electron relative to the direction of the initial photon?",D. 180o,0
+"13. What is the relationship between the mass attenuation coefficient μ/ρ, mass energy transfer coefficient (μtr/ρ), and the mass energy absorption coefficient (μen/ρ)?",A. μtr/ρ ≥ μen/ρ ≥ μ/ρ,0
+"13. What is the relationship between the mass attenuation coefficient μ/ρ, mass energy transfer coefficient (μtr/ρ), and the mass energy absorption coefficient (μen/ρ)?",B. μen/ρ ≥ μtr/ρ ≥ μ/ρ,0
+"13. What is the relationship between the mass attenuation coefficient μ/ρ, mass energy transfer coefficient (μtr/ρ), and the mass energy absorption coefficient (μen/ρ)?",C. μ/ρ ≥ μen/ρ ≥ μtr/ρ,0
+"13. What is the relationship between the mass attenuation coefficient μ/ρ, mass energy transfer coefficient (μtr/ρ), and the mass energy absorption coefficient (μen/ρ)?",D. μ/ρ ≥ μtr/ρ ≥ μen/ρ,1
+14. How does the KERMA compare to the absorbed dose for a 15 MV photon beam at 10 cm depth in a water phantom?,A. The KERMA is greater than the absorbed dose.,0
+14. How does the KERMA compare to the absorbed dose for a 15 MV photon beam at 10 cm depth in a water phantom?,B. The KERMA is equal to the absorbed dose.,0
+14. How does the KERMA compare to the absorbed dose for a 15 MV photon beam at 10 cm depth in a water phantom?,C. The KERMA is less than the absorbed dose.,1
+14. How does the KERMA compare to the absorbed dose for a 15 MV photon beam at 10 cm depth in a water phantom?,D. The relationship between KERMA and the absorbed dose can’t be determined.,0
+15. Which of the following beams will not produce a buildup effect in the percent depth dose curve?,A. X-rays from a 100 kVp x-ray tube.,1
+15. Which of the following beams will not produce a buildup effect in the percent depth dose curve?,B. Gamma-rays from 60Co.,0
+15. Which of the following beams will not produce a buildup effect in the percent depth dose curve?,C. 6 MV x-rays from a LINAC.,0
+15. Which of the following beams will not produce a buildup effect in the percent depth dose curve?,D. 18 MV x-rays from a LINAC.,0
+16. Which device below is the most suitable for measuring lateral beam profiles?,A. Diodes,1
+16. Which device below is the most suitable for measuring lateral beam profiles?,B. Farmer chambers,0
+16. Which device below is the most suitable for measuring lateral beam profiles?,C. Plane parallel ionization chambers,0
+16. Which device below is the most suitable for measuring lateral beam profiles?,D. Geiger-Muller counter,0
+"17. Four exposed films have the same optical density of 1.25. If all four films are placed on top of each other, what is the fraction of light that can transmit through?",A. 20%,0
+"17. Four exposed films have the same optical density of 1.25. If all four films are placed on top of each other, what is the fraction of light that can transmit through?",B. 1%,0
+"17. Four exposed films have the same optical density of 1.25. If all four films are placed on top of each other, what is the fraction of light that can transmit through?",C. 0.1%,0
+"17. Four exposed films have the same optical density of 1.25. If all four films are placed on top of each other, what is the fraction of light that can transmit through?",D. 0.01%,0
+"17. Four exposed films have the same optical density of 1.25. If all four films are placed on top of each other, what is the fraction of light that can transmit through?",E. 0.001%,1
+18. Which of the following devices is not suitable for in-vivo dose measurements?,A. Diodes,0
+18. Which of the following devices is not suitable for in-vivo dose measurements?,B. Thermoluminescent dosimeters (TLDs),0
+18. Which of the following devices is not suitable for in-vivo dose measurements?,C. Ionization chambers,1
+18. Which of the following devices is not suitable for in-vivo dose measurements?,D. Optically stimulated luminescence dosimeters (OSLDs),0
+"19. According to TG-51, which of the following correction factors is not needed when converting the measured charge to the generated charge in the ionization chamber?",A. Temperature and pressure correction,0
+"19. According to TG-51, which of the following correction factors is not needed when converting the measured charge to the generated charge in the ionization chamber?",B. Recombination correction,0
+"19. According to TG-51, which of the following correction factors is not needed when converting the measured charge to the generated charge in the ionization chamber?",C. Scatter correction,1
+"19. According to TG-51, which of the following correction factors is not needed when converting the measured charge to the generated charge in the ionization chamber?",D. Polarity correction,0
+"20. For a farmer chamber calibrated at the standard temperature and pressure, which is the PTP factor for a local temperature of 23 oC and pressure of 720 mmHg?",A. 0.97,0
+"20. For a farmer chamber calibrated at the standard temperature and pressure, which is the PTP factor for a local temperature of 23 oC and pressure of 720 mmHg?",B. 0.99,0
+"20. For a farmer chamber calibrated at the standard temperature and pressure, which is the PTP factor for a local temperature of 23 oC and pressure of 720 mmHg?",C. 1.03,0
+"20. For a farmer chamber calibrated at the standard temperature and pressure, which is the PTP factor for a local temperature of 23 oC and pressure of 720 mmHg?",D. 1.06,1
+21. How is the beam quality defined in TG-51?,A. Nominal beam energy,0
+21. How is the beam quality defined in TG-51?,B. Tenth value layer,0
+21. How is the beam quality defined in TG-51?,C. Average beam energy,0
+21. How is the beam quality defined in TG-51?,D. %dd(10)x,1
+"22. According to TG-51, a LINAC should have dose calibration in water tank ___.",A. Every day,0
+"22. According to TG-51, a LINAC should have dose calibration in water tank ___.",B. Every month,0
+"22. According to TG-51, a LINAC should have dose calibration in water tank ___.",C. Every year,1
+"22. According to TG-51, a LINAC should have dose calibration in water tank ___.",D. Every other year,0
+23. Why is TMR always larger than PDD at depths larger than dmax?,A. PDD includes both beam attenuation and beam divergence.,1
+23. Why is TMR always larger than PDD at depths larger than dmax?,B. PDD includes beam attenuation but does not include beam divergence.,0
+23. Why is TMR always larger than PDD at depths larger than dmax?,C. TMR includes both beam attenuation and beam divergence.,0
+23. Why is TMR always larger than PDD at depths larger than dmax?,D. TMR does not include beam attenuation but does include beam divergence.,0
+24. Which of the following changes will result in a larger geometric penumbra?,A. Increasing SSD.,1
+24. Which of the following changes will result in a larger geometric penumbra?,B. Increasing the source to collimator distance.,0
+24. Which of the following changes will result in a larger geometric penumbra?,C. Reducing the source size.,0
+24. Which of the following changes will result in a larger geometric penumbra?,D. Move the patient closer to the collimator.,0
+"25. The output of a 6 MV beam is 1 cGy/MU at SSD=100 cm, depth=1.5 cm and field size 10 cm x10 cm. What is the output at SSD=98.5 cm, depth=1.5 cm and field size 10 cm x10 cm?",A. 0.985 cGy/MU,0
+"25. The output of a 6 MV beam is 1 cGy/MU at SSD=100 cm, depth=1.5 cm and field size 10 cm x10 cm. What is the output at SSD=98.5 cm, depth=1.5 cm and field size 10 cm x10 cm?",B. 0.97 cGy/MU,0
+"25. The output of a 6 MV beam is 1 cGy/MU at SSD=100 cm, depth=1.5 cm and field size 10 cm x10 cm. What is the output at SSD=98.5 cm, depth=1.5 cm and field size 10 cm x10 cm?",C. 1.015 cGy/MU,0
+"25. The output of a 6 MV beam is 1 cGy/MU at SSD=100 cm, depth=1.5 cm and field size 10 cm x10 cm. What is the output at SSD=98.5 cm, depth=1.5 cm and field size 10 cm x10 cm?",D. 1.03 cGy/MU,1
+"26. For a single field SAD treatment, the output at dmax is 1.02 cGy and the TMR at depth 10 cm is 0.7. What is the MU needed to delivery 100 cGy at depth 10 cm?",A. 100,0
+"26. For a single field SAD treatment, the output at dmax is 1.02 cGy and the TMR at depth 10 cm is 0.7. What is the MU needed to delivery 100 cGy at depth 10 cm?",B. 102,0
+"26. For a single field SAD treatment, the output at dmax is 1.02 cGy and the TMR at depth 10 cm is 0.7. What is the MU needed to delivery 100 cGy at depth 10 cm?",C. 140,1
+"26. For a single field SAD treatment, the output at dmax is 1.02 cGy and the TMR at depth 10 cm is 0.7. What is the MU needed to delivery 100 cGy at depth 10 cm?",D. 160,0
+27. What wedge angle will produce the most uniform dose distribution for two treatment fields separated by 100o?,A. 30o,0
+27. What wedge angle will produce the most uniform dose distribution for two treatment fields separated by 100o?,B. 40o,1
+27. What wedge angle will produce the most uniform dose distribution for two treatment fields separated by 100o?,C. 50o,0
+27. What wedge angle will produce the most uniform dose distribution for two treatment fields separated by 100o?,D. 60o,0
+"28. A patient’s spine is treated by two adjacent fields with SSD=100 cm. The field lengths (symmetrical fields) in the superior-inferior directions are 20 cm and 24 cm, respectively. What is the gap in the skin to match the two spine fields at depth 10 cm?",A. 1.0 cm,0
+"28. A patient’s spine is treated by two adjacent fields with SSD=100 cm. The field lengths (symmetrical fields) in the superior-inferior directions are 20 cm and 24 cm, respectively. What is the gap in the skin to match the two spine fields at depth 10 cm?",B. 1.5 cm,0
+"28. A patient’s spine is treated by two adjacent fields with SSD=100 cm. The field lengths (symmetrical fields) in the superior-inferior directions are 20 cm and 24 cm, respectively. What is the gap in the skin to match the two spine fields at depth 10 cm?",C. 2.0 cm,0
+"28. A patient’s spine is treated by two adjacent fields with SSD=100 cm. The field lengths (symmetrical fields) in the superior-inferior directions are 20 cm and 24 cm, respectively. What is the gap in the skin to match the two spine fields at depth 10 cm?",D. 2.2 cm,1
+"29. For a craniospinal treatment treated with symmetrical fields, the field length for the upper spine field is 25 cm, and the field size for the lateral cranial fields are 20 cm x 20 cm. What is the collimator rotation angle for the cranial fields to align with the divergence of the spine fields?",A. 3o,0
+"29. For a craniospinal treatment treated with symmetrical fields, the field length for the upper spine field is 25 cm, and the field size for the lateral cranial fields are 20 cm x 20 cm. What is the collimator rotation angle for the cranial fields to align with the divergence of the spine fields?",B. 5o,0
+"29. For a craniospinal treatment treated with symmetrical fields, the field length for the upper spine field is 25 cm, and the field size for the lateral cranial fields are 20 cm x 20 cm. What is the collimator rotation angle for the cranial fields to align with the divergence of the spine fields?",C. 7o,1
+"29. For a craniospinal treatment treated with symmetrical fields, the field length for the upper spine field is 25 cm, and the field size for the lateral cranial fields are 20 cm x 20 cm. What is the collimator rotation angle for the cranial fields to align with the divergence of the spine fields?",D. 9o,0
+30. The dose-volume-histogram (DVH) contains the following information except:,A. Location of the hot spot,1
+30. The dose-volume-histogram (DVH) contains the following information except:,B. Mean dose,0
+30. The dose-volume-histogram (DVH) contains the following information except:,C. Minimum dose,0
+30. The dose-volume-histogram (DVH) contains the following information except:,D. Maximum dose,0
+31. What dose D5%=20 Gy to the heart on a DVH curve means?,A. 5% of the heart receives exactly 20 Gy.,0
+31. What dose D5%=20 Gy to the heart on a DVH curve means?,B. 5% of the heart receives less than 20 Gy.,0
+31. What dose D5%=20 Gy to the heart on a DVH curve means?,C. 95% of the heart receives more than 20 Gy.,0
+31. What dose D5%=20 Gy to the heart on a DVH curve means?,D. 95% of the heart receives less than 20 Gy.,1
+32. Which of the following parameters is sometimes changed by the dosimetrist during treatment planning?,A. Dose for each treatment fraction,0
+32. Which of the following parameters is sometimes changed by the dosimetrist during treatment planning?,B. Total treatment dose,0
+32. Which of the following parameters is sometimes changed by the dosimetrist during treatment planning?,C. Number of treatment fractions,0
+32. Which of the following parameters is sometimes changed by the dosimetrist during treatment planning?,D. Number of beams,1
+"33. For electron radiation therapy, which electron energy has the minimum PDD on the surface?",A. 6 MeV,1
+"33. For electron radiation therapy, which electron energy has the minimum PDD on the surface?",B. 9 MeV,0
+"33. For electron radiation therapy, which electron energy has the minimum PDD on the surface?",C. 12 MeV,0
+"33. For electron radiation therapy, which electron energy has the minimum PDD on the surface?",D. 16 MeV,0
+"33. For electron radiation therapy, which electron energy has the minimum PDD on the surface?",E. 20 MeV,0
+34. Electron PDD has a low dose tail after the practical range. Which physical process is related to the generation of this tail?,A. Compton scattering,0
+34. Electron PDD has a low dose tail after the practical range. Which physical process is related to the generation of this tail?,B. Bremsstrahlung radiation,1
+34. Electron PDD has a low dose tail after the practical range. Which physical process is related to the generation of this tail?,C. Characteristic x-rays,0
+34. Electron PDD has a low dose tail after the practical range. Which physical process is related to the generation of this tail?,D. Pair production,0
+35. Which of the following treatments is suitable for SSD setup?,A. Four fields box for a pelvic treatment,0
+35. Which of the following treatments is suitable for SSD setup?,B. Multiple fields IMRT treatment,0
+35. Which of the following treatments is suitable for SSD setup?,C. Electron boost to chest wall of breast cancer,1
+35. Which of the following treatments is suitable for SSD setup?,D. VMAT treatment with two arcs,0
+36. Which of the following statements is true for electron effective SSD?,A. It increases with increasing electron energy.,1
+36. Which of the following statements is true for electron effective SSD?,B. It is equal to the distance from the x-ray sources to the isocenter.,0
+36. Which of the following statements is true for electron effective SSD?,C. It is larger than the distance from the x-ray sources to the isocenter.,0
+36. Which of the following statements is true for electron effective SSD?,D. It is independent of electron energy.,0
+37. What is the range of a 6 MeV electron beam in the lung (0.25 g/cm3)?,A. 3 cm,0
+37. What is the range of a 6 MeV electron beam in the lung (0.25 g/cm3)?,B. 6 cm,0
+37. What is the range of a 6 MeV electron beam in the lung (0.25 g/cm3)?,C. 9 cm,0
+37. What is the range of a 6 MeV electron beam in the lung (0.25 g/cm3)?,D. 12 cm,1
+38. What is inverse planning in IMRT?,A. Choosing best beam angles.,0
+38. What is inverse planning in IMRT?,B. Choosing appropriate beam modifiers such as wedges and compensators.,0
+38. What is inverse planning in IMRT?,C. Optimizing beam fluence based on the desired dose constraints.,1
+38. What is inverse planning in IMRT?,D. Adding beam block to protect organs at risk.,0
+39. What is the purpose of the leaf sequencing algorithm in IMRT planning?,A. It converts optimized fluence to the achievable fluence by MLC.,1
+39. What is the purpose of the leaf sequencing algorithm in IMRT planning?,B. It converts cost functions to the optimized fluence.,0
+39. What is the purpose of the leaf sequencing algorithm in IMRT planning?,C. It converts achievable fluence to dose.,0
+39. What is the purpose of the leaf sequencing algorithm in IMRT planning?,D. It converts desirable constraints to cost functions.,0
+40. The dose gradient achievable in an IMRT plan is approximately ___.,A. 0.1%/mm,0
+40. The dose gradient achievable in an IMRT plan is approximately ___.,B. 1%/mm,0
+40. The dose gradient achievable in an IMRT plan is approximately ___.,C. 10%/mm,1
+40. The dose gradient achievable in an IMRT plan is approximately ___.,D. 50%/mm,0
+41. Which of the following devices is not appropriate for IMRT patient QA?,A. Electronic portal imaging device,0
+41. Which of the following devices is not appropriate for IMRT patient QA?,B. Film and ionization chamber,0
+41. Which of the following devices is not appropriate for IMRT patient QA?,C. Diode Array,0
+41. Which of the following devices is not appropriate for IMRT patient QA?,D. Single ionization chamber,1
+42. Which parameter below is not typically set by a dosimetrist during IMRT treatment planning?,A. Beam energy,0
+42. Which parameter below is not typically set by a dosimetrist during IMRT treatment planning?,B. Beam angle,0
+42. Which parameter below is not typically set by a dosimetrist during IMRT treatment planning?,C. Beam weight,1
+42. Which parameter below is not typically set by a dosimetrist during IMRT treatment planning?,D. Upper and lower dose constraints,0
+"43. For material with HU=10, what is the ratio of linear attenuation coefficients between this material to water?",A. 1.01,1
+"43. For material with HU=10, what is the ratio of linear attenuation coefficients between this material to water?",B. 1.1,0
+"43. For material with HU=10, what is the ratio of linear attenuation coefficients between this material to water?",C. 0.99,0
+"43. For material with HU=10, what is the ratio of linear attenuation coefficients between this material to water?",D. 0.9,0
+44. Which of the following methods can improve the spatial resolution of CT?,A. Increasing tube voltage.,0
+44. Which of the following methods can improve the spatial resolution of CT?,B. Increasing field of view.,0
+44. Which of the following methods can improve the spatial resolution of CT?,C. Decreasing field of view.,1
+44. Which of the following methods can improve the spatial resolution of CT?,D. Decreasing tube current.,0
+45. Why can’t MR images replace CT for accurate dose calculations in radiation therapy?,A. MR images have inferior soft tissue contrast than CT.,0
+45. Why can’t MR images replace CT for accurate dose calculations in radiation therapy?,B. MR images have worse spatial resolution than CT.,0
+45. Why can’t MR images replace CT for accurate dose calculations in radiation therapy?,C. MR images deliver more ionization doses to the patient than CT.,0
+45. Why can’t MR images replace CT for accurate dose calculations in radiation therapy?,D. MR images do not have information about electron density.,1
+46. The velocity of ultrasound in soft tissue is 1500 m/s. The time to receive a signal after sending a pulse is 0.1 ms. What is the depth of the anatomical interface?,A. 5 cm,0
+46. The velocity of ultrasound in soft tissue is 1500 m/s. The time to receive a signal after sending a pulse is 0.1 ms. What is the depth of the anatomical interface?,B. 7.5 cm,1
+46. The velocity of ultrasound in soft tissue is 1500 m/s. The time to receive a signal after sending a pulse is 0.1 ms. What is the depth of the anatomical interface?,C. 10 cm,0
+46. The velocity of ultrasound in soft tissue is 1500 m/s. The time to receive a signal after sending a pulse is 0.1 ms. What is the depth of the anatomical interface?,D. 15 cm,0
+47. Which of the following imaging modalities utilizes non-ionizing radiation?,A. MRI,1
+47. Which of the following imaging modalities utilizes non-ionizing radiation?,B. PET,0
+47. Which of the following imaging modalities utilizes non-ionizing radiation?,C. CT,0
+47. Which of the following imaging modalities utilizes non-ionizing radiation?,D. Radiograph,0
+48. Which of the following statements is true about the spatial resolution of PET images.,A. PET images spatial resolution is better than CT and MRI.,0
+48. Which of the following statements is true about the spatial resolution of PET images.,B. PET images spatial resolution increases when the average energy of the emitted positrons decrease.,1
+48. Which of the following statements is true about the spatial resolution of PET images.,C. PET images spatial resolution increases when number of detectors in the ring decreases.,0
+48. Which of the following statements is true about the spatial resolution of PET images.,D. PET images spatial resolution is better than 1 mm.,0
+49. Which information below is not stored in a DICOM RT plan file?,A. Patient name,0
+49. Which information below is not stored in a DICOM RT plan file?,B. Treatment angles,0
+49. Which information below is not stored in a DICOM RT plan file?,"C. CT scanner parameters, such as kVp, mAs",1
+49. Which information below is not stored in a DICOM RT plan file?,D. Prescription dose,0
+"50. A 4D CT has 10 phases, 200 slices in each phase. Each slice has 512x512 pixels, where each pixel uses 2 bytes. How long does it take to transfer this 4D CT over the internet with a transfer speed of 2 GB/second?",A. 0.2 s,0
+"50. A 4D CT has 10 phases, 200 slices in each phase. Each slice has 512x512 pixels, where each pixel uses 2 bytes. How long does it take to transfer this 4D CT over the internet with a transfer speed of 2 GB/second?",B. 0.5 s,1
+"50. A 4D CT has 10 phases, 200 slices in each phase. Each slice has 512x512 pixels, where each pixel uses 2 bytes. How long does it take to transfer this 4D CT over the internet with a transfer speed of 2 GB/second?",C. 1.0 s,0
+"50. A 4D CT has 10 phases, 200 slices in each phase. Each slice has 512x512 pixels, where each pixel uses 2 bytes. How long does it take to transfer this 4D CT over the internet with a transfer speed of 2 GB/second?",D. 2.0 s,0
+"51. As compared to diagnostic CT, which statement below is not true for CT simulator?",A. CT simulator usually has a larger bore size than diagnostic CT.,0
+"51. As compared to diagnostic CT, which statement below is not true for CT simulator?",B. CT simulator gives better image spatial resolution and contrast than diagnostic CT.,1
+"51. As compared to diagnostic CT, which statement below is not true for CT simulator?",C. CT simulator needs extra laser for localizing the treatment isocenter.,0
+"51. As compared to diagnostic CT, which statement below is not true for CT simulator?",D. CT simulator needs accurate geometry and HU for the whole body.,0
+52. Which techniques below do not result in a reduced setup margin for planning target volume (PTV)?,A. Change weekly IGRT to daily IGRT.,0
+52. Which techniques below do not result in a reduced setup margin for planning target volume (PTV)?,B. Change the setup from laser to IGRT.,0
+52. Which techniques below do not result in a reduced setup margin for planning target volume (PTV)?,C. Add fiducial markers to the target.,0
+52. Which techniques below do not result in a reduced setup margin for planning target volume (PTV)?,D. Change 3D CRT plan to IMRT plan.,1
+"53. To get the best soft tissue contrast for a head and neck cancer treatment, which IGRT method is preferred?",A. MV portal imaging,0
+"53. To get the best soft tissue contrast for a head and neck cancer treatment, which IGRT method is preferred?",B. kV orthogonal planar images,0
+"53. To get the best soft tissue contrast for a head and neck cancer treatment, which IGRT method is preferred?",C. kV cone-beam CT,1
+"53. To get the best soft tissue contrast for a head and neck cancer treatment, which IGRT method is preferred?",D. Surface imaging,0
+54. Which of the following IGRT methods is not used for IMRT treatment?,A. MV portal image.,1
+54. Which of the following IGRT methods is not used for IMRT treatment?,B. kV orthogonal planar images.,0
+54. Which of the following IGRT methods is not used for IMRT treatment?,C. kV cone-beam CT.,0
+54. Which of the following IGRT methods is not used for IMRT treatment?,D. CT on-rail.,0
+55. Which IGRT method gives the lowest dose?,A. MV portal image,0
+55. Which IGRT method gives the lowest dose?,B. MV cone-beam CT,0
+55. Which IGRT method gives the lowest dose?,C. kV orthogonal planar images,1
+55. Which IGRT method gives the lowest dose?,D. kV cone-beam CT,0
+56. Prostate motion can’t be tracked by ___.,A. Infrared surface imaging.,1
+56. Prostate motion can’t be tracked by ___.,B. Implanted RF beacons.,0
+56. Prostate motion can’t be tracked by ___.,C. Implanted fiducial markers and fluoroscopy imaging.,0
+56. Prostate motion can’t be tracked by ___.,D. MR images in MR-LINAC.,0
+57. Which of the following is not an advantage of free-breathing gating for treating a lung tumor?,A. Reduced internal target volume.,0
+57. Which of the following is not an advantage of free-breathing gating for treating a lung tumor?,B. Reduced dose to organ at risk.,0
+57. Which of the following is not an advantage of free-breathing gating for treating a lung tumor?,C. Reduced treatment time.,1
+57. Which of the following is not an advantage of free-breathing gating for treating a lung tumor?,D. Patient is comfortable in free breathing.,0
+58. 4D CT is not needed for a ____.,A. tumor near the diaphragm,0
+58. 4D CT is not needed for a ____.,B. tumor in the brain,1
+58. 4D CT is not needed for a ____.,C. tumor in the lung,0
+58. 4D CT is not needed for a ____.,D. tumor in the liver,0
+59. ____ is not a method for management of respiratory motion in radiation therapy.,A. Deep-inspiration breath hold (DIBH).,0
+59. ____ is not a method for management of respiratory motion in radiation therapy.,B. Real-time tumor tracking.,0
+59. ____ is not a method for management of respiratory motion in radiation therapy.,C. IGRT using cone-beam CT.,1
+59. ____ is not a method for management of respiratory motion in radiation therapy.,D. Free-breathing respiratory gating.,0
+60. The half-life for a radioactive nuclide is 69 days. How much does it decay in one day?,A. 0.5%,0
+60. The half-life for a radioactive nuclide is 69 days. How much does it decay in one day?,B. 0.7%,0
+60. The half-life for a radioactive nuclide is 69 days. How much does it decay in one day?,C. 1.0%,1
+60. The half-life for a radioactive nuclide is 69 days. How much does it decay in one day?,D. 1.5%,0
+"61. Which statement is correct for an HDR source, 192Ir, with activity 10 Ci?",A. Its decay rate is equivalent to about 10 grams of 226Ra.,1
+"61. Which statement is correct for an HDR source, 192Ir, with activity 10 Ci?",B. Its decay rate is equivalent to about 1 gram of 226Ra.,0
+"61. Which statement is correct for an HDR source, 192Ir, with activity 10 Ci?",C. Its decay rate is 37 GBq.,0
+"61. Which statement is correct for an HDR source, 192Ir, with activity 10 Ci?",D. Its decay rate is 3.7 GBq.,0
+"62. The physical and effective half-lives for an unsealed isotope are 6 hours and 2 hours, respectively. What is the biological half-life?",A. 12 hours,0
+"62. The physical and effective half-lives for an unsealed isotope are 6 hours and 2 hours, respectively. What is the biological half-life?",B. 8 hours,0
+"62. The physical and effective half-lives for an unsealed isotope are 6 hours and 2 hours, respectively. What is the biological half-life?",C. 4 hours,0
+"62. The physical and effective half-lives for an unsealed isotope are 6 hours and 2 hours, respectively. What is the biological half-life?",D. 3 hours,1
+63. What is the initial dose rate for a prostate 125I seed implant to deliver a total dose of 120 Gy?,A. 4.9 cGy/h,0
+63. What is the initial dose rate for a prostate 125I seed implant to deliver a total dose of 120 Gy?,B. 5.9 cGy/h,1
+63. What is the initial dose rate for a prostate 125I seed implant to deliver a total dose of 120 Gy?,C. 7.0 cGy/h,0
+63. What is the initial dose rate for a prostate 125I seed implant to deliver a total dose of 120 Gy?,D. 7.9 cGy/h,0
+"64. According to AAPM TG-43, ___ has the greatest anisotropy correction.",A. 192Ir,0
+"64. According to AAPM TG-43, ___ has the greatest anisotropy correction.",B. 137Cs,0
+"64. According to AAPM TG-43, ___ has the greatest anisotropy correction.",C. 226Ra,0
+"64. According to AAPM TG-43, ___ has the greatest anisotropy correction.",D. 125I,1
+65. Which of the following is not a limitation of AAPM TG-43?,A. The absorption and scattering in the source is not considered.,1
+65. Which of the following is not a limitation of AAPM TG-43?,B. The applicator is treated as water.,0
+65. Which of the following is not a limitation of AAPM TG-43?,C. The dose delivered while the source is in transit is usually ignored.,0
+65. Which of the following is not a limitation of AAPM TG-43?,D. The patient is treated as water.,0
+"66. Why is the radial dose function, g(r), approximately constant for an 192Ir source for values of r less than 5 cm?",A. There is no attenuation for the first 5 cm.,0
+"66. Why is the radial dose function, g(r), approximately constant for an 192Ir source for values of r less than 5 cm?",B. Attenuation is included in the geometry factor.,0
+"66. Why is the radial dose function, g(r), approximately constant for an 192Ir source for values of r less than 5 cm?",C. Attenuation is compensated by the increased scatter.,1
+"66. Why is the radial dose function, g(r), approximately constant for an 192Ir source for values of r less than 5 cm?",D. Attenuation is included in the anisotropy factor.,0
+67. An HDR vaginal cylinder case with a 3 cm diameter is planned to deliver 700 cGy to vaginal tissue at 5 mm from the cylinder surface. What is the approximate dose to the surface of the cylinder?,A. 1244 cGy,0
+67. An HDR vaginal cylinder case with a 3 cm diameter is planned to deliver 700 cGy to vaginal tissue at 5 mm from the cylinder surface. What is the approximate dose to the surface of the cylinder?,B. 933 cGy,1
+67. An HDR vaginal cylinder case with a 3 cm diameter is planned to deliver 700 cGy to vaginal tissue at 5 mm from the cylinder surface. What is the approximate dose to the surface of the cylinder?,C. 700 cGy,0
+67. An HDR vaginal cylinder case with a 3 cm diameter is planned to deliver 700 cGy to vaginal tissue at 5 mm from the cylinder surface. What is the approximate dose to the surface of the cylinder?,D. 500 cGy,0
+"68. To get a uniform dose at 5 mm from the cylinder surface in HDR vaginal treatment, the source dwell times ___.",A. are the same at all dwell points.,0
+"68. To get a uniform dose at 5 mm from the cylinder surface in HDR vaginal treatment, the source dwell times ___.",B. are longer at the ends.,1
+"68. To get a uniform dose at 5 mm from the cylinder surface in HDR vaginal treatment, the source dwell times ___.",C. are longer in the middle.,0
+"68. To get a uniform dose at 5 mm from the cylinder surface in HDR vaginal treatment, the source dwell times ___.",D. are longer at the superior end than the inferior end.,0
+69. Why is the prescription dose for permanent prostate implant seeds lower when using 103Pd as opposed to 125I?,A. The half-life for 103Pd is shorter.,1
+69. Why is the prescription dose for permanent prostate implant seeds lower when using 103Pd as opposed to 125I?,B. The energy of emitted photon for 103Pd is larger.,0
+69. Why is the prescription dose for permanent prostate implant seeds lower when using 103Pd as opposed to 125I?,C. The radial dose function g(r) for 103Pd is larger.,0
+69. Why is the prescription dose for permanent prostate implant seeds lower when using 103Pd as opposed to 125I?,D. The anisotropy function for 103Pd is larger.,0
+70. ____ is not performed for HDR daily QA.,A. Source position accuracy check,0
+70. ____ is not performed for HDR daily QA.,B. Survey meter function check,0
+70. ____ is not performed for HDR daily QA.,C. Radiation monitor function check,0
+70. ____ is not performed for HDR daily QA.,D. Source calibration,1
+71. ____ is the most appropriate device to find a lost radionuclide seed in the operation room.,A. A well ionization chamber,0
+71. ____ is the most appropriate device to find a lost radionuclide seed in the operation room.,B. A Farmer chamber,0
+71. ____ is the most appropriate device to find a lost radionuclide seed in the operation room.,C. A Geiger-Muller counter,1
+71. ____ is the most appropriate device to find a lost radionuclide seed in the operation room.,D. A diode,0
+72. Which of the following tests is not a typical procedure for HDR brachytherapy?,A. Calibrating the source when a new source is used.,0
+72. Which of the following tests is not a typical procedure for HDR brachytherapy?,B. Changing the source at a frequency of 3-4 months.,0
+72. Which of the following tests is not a typical procedure for HDR brachytherapy?,C. Performing daily QA in the days only when patient treatment is scheduled.,0
+72. Which of the following tests is not a typical procedure for HDR brachytherapy?,D. Performing patient surveys only before the treatment.,1
+73. Which statement below is true for TBI treatment?,A. Lung block is always needed when lateral opposed beams are used.,0
+73. Which statement below is true for TBI treatment?,B. FFF mode is used to increase the dose rate.,0
+73. Which statement below is true for TBI treatment?,C. The extended SSD increases the dose uniformity.,1
+73. Which statement below is true for TBI treatment?,D. The treatment is faster than it is for regular patients.,0
+"74. The maximum field size for a LINAC is 40 cm x 40 cm, and the height of a TBI patient is 180 cm. What is the minimum SSD required for the TBI treatment with a collimator angle of 0o?",A. 250 cm,0
+"74. The maximum field size for a LINAC is 40 cm x 40 cm, and the height of a TBI patient is 180 cm. What is the minimum SSD required for the TBI treatment with a collimator angle of 0o?",B. 350 cm,0
+"74. The maximum field size for a LINAC is 40 cm x 40 cm, and the height of a TBI patient is 180 cm. What is the minimum SSD required for the TBI treatment with a collimator angle of 0o?",C. 450 cm,1
+"74. The maximum field size for a LINAC is 40 cm x 40 cm, and the height of a TBI patient is 180 cm. What is the minimum SSD required for the TBI treatment with a collimator angle of 0o?",D. 550 cm,0
+"75. In total skin electron therapy (TSET), why is the gantry angle about 20o such that the central axis is above patient’s head and below patient’s feet?",A. To minimize the dose from x-ray contaminations.,1
+"75. In total skin electron therapy (TSET), why is the gantry angle about 20o such that the central axis is above patient’s head and below patient’s feet?",B. To maximize the dose from x-ray contaminations.,0
+"75. In total skin electron therapy (TSET), why is the gantry angle about 20o such that the central axis is above patient’s head and below patient’s feet?",C. To increase the SSD.,0
+"75. In total skin electron therapy (TSET), why is the gantry angle about 20o such that the central axis is above patient’s head and below patient’s feet?",D. To reduce treatment time.,0
+76. ___ is not an appropriate delivery method for intraoperative radiotherapy (IORT).,A. MeV Electrons,0
+76. ___ is not an appropriate delivery method for intraoperative radiotherapy (IORT).,B. MV photons,1
+76. ___ is not an appropriate delivery method for intraoperative radiotherapy (IORT).,C. HDR Brachytherapy,0
+76. ___ is not an appropriate delivery method for intraoperative radiotherapy (IORT).,D. kV x-rays,0
+77. Which of the following statements correctly describe the lateral penumbras of therapeutic proton beams?,A. They are always larger than penumbras of MV x-rays in LINAC.,0
+77. Which of the following statements correctly describe the lateral penumbras of therapeutic proton beams?,B. They are always smaller than penumbras of MV x-rays in LINAC.,0
+77. Which of the following statements correctly describe the lateral penumbras of therapeutic proton beams?,C. They do not change with depth.,0
+77. Which of the following statements correctly describe the lateral penumbras of therapeutic proton beams?,D. They increase with depth.,1
+78. ___ is not needed for a dedicated nozzle for proton pencil beam scanning.,A. A dose monitor chamber,0
+78. ___ is not needed for a dedicated nozzle for proton pencil beam scanning.,B. Scanning magnets,0
+78. ___ is not needed for a dedicated nozzle for proton pencil beam scanning.,C. A range modulation wheel,1
+78. ___ is not needed for a dedicated nozzle for proton pencil beam scanning.,D. A spot position monitor,0
+79. Which of the following statements is correct regarding range straggling in proton therapy?,A. It is due to the statistical uncertainty in energy loss.,1
+79. Which of the following statements is correct regarding range straggling in proton therapy?,B. It results in about 3.5% range uncertainty.,0
+79. Which of the following statements is correct regarding range straggling in proton therapy?,C. It can be minimized by robust optimization.,0
+79. Which of the following statements is correct regarding range straggling in proton therapy?,D. It is the same as range uncertainty.,0
+"80. Why do proton machines require a large gantry to bend protons, but LINACs don’t?",A. Protons at 250 MeV have a higher speed than electrons at 6-20 MeV.,0
+"80. Why do proton machines require a large gantry to bend protons, but LINACs don’t?",B. The mass of protons is about 1800 times more than the mass of electrons.,1
+"80. Why do proton machines require a large gantry to bend protons, but LINACs don’t?",C. Protons have positive charge while electrons have negative charge.,0
+"80. Why do proton machines require a large gantry to bend protons, but LINACs don’t?",D. Protons do not generate x-rays by Bremsstrahlung radiation.,0
+81. Which of the following statements is incorrect regarding intensity-modulated proton therapy (IMPT)?,A. An IMPT plan can be robust with robustness optimization.,0
+81. Which of the following statements is incorrect regarding intensity-modulated proton therapy (IMPT)?,B. IMPT is more conformal than double scattering.,0
+81. Which of the following statements is incorrect regarding intensity-modulated proton therapy (IMPT)?,C. IMPT is less sensitive to motion than double scattering.,1
+81. Which of the following statements is incorrect regarding intensity-modulated proton therapy (IMPT)?,D. IMPT by pencil beam scanning needs less hardware than double scattering.,0
+82. Which of the following statements about RBE for protons is correct?,A. It is always a constant 1.1 for all depths.,0
+82. Which of the following statements about RBE for protons is correct?,B. It is the highest at the shallow depth.,0
+82. Which of the following statements about RBE for protons is correct?,C. It is the highest at the center of spread-out Bragg peak.,0
+82. Which of the following statements about RBE for protons is correct?,D. It is the highest at the distal fall off depth.,1
+83. Which device is not appropriate to measure the lateral profile of small fields in SRS?,A. Diode,0
+83. Which device is not appropriate to measure the lateral profile of small fields in SRS?,B. Pin-point ionization chamber,0
+83. Which device is not appropriate to measure the lateral profile of small fields in SRS?,C. Farmer chamber,1
+83. Which device is not appropriate to measure the lateral profile of small fields in SRS?,D. Diamond detector,0
+84. What is the purpose of using tertiary collimators in SRS technique?,A. To reduce the penumbra.,1
+84. What is the purpose of using tertiary collimators in SRS technique?,B. To reduce treatment time.,0
+84. What is the purpose of using tertiary collimators in SRS technique?,C. To reduce collisions.,0
+84. What is the purpose of using tertiary collimators in SRS technique?,D. To merge multiple isocenters to a single isocenter.,0
+85. Which of the following statements is not true about SRS?,A. A flattening filter free (FFF) can’t be used in SRS technique.,1
+85. Which of the following statements is not true about SRS?,B. A Winston-Lutz test is required to verify the coincidence between radiation and mechanical isocenters.,0
+85. Which of the following statements is not true about SRS?,C. The SRS field may not have lateral charge particle equilibrium (CPE).,0
+85. Which of the following statements is not true about SRS?,D. Both frame-based and frame-less systems are feasible for SRS.,0
+"86. When planning for SRS/SBRT, which of the following statements is not typically a priority?",A. Rapid dose fall off outside of target.,0
+"86. When planning for SRS/SBRT, which of the following statements is not typically a priority?",B. Homogenous dose inside the target.,1
+"86. When planning for SRS/SBRT, which of the following statements is not typically a priority?",C. Conformality index to be close to 1.,0
+"86. When planning for SRS/SBRT, which of the following statements is not typically a priority?",D. Gradient index to be as small as possible.,0
+"87. Compared to regular fractionated treatment, ____ is not required for SRS technique.",A. a smaller CT slice thickness,0
+"87. Compared to regular fractionated treatment, ____ is not required for SRS technique.",B. a smaller dose calculation grid,0
+"87. Compared to regular fractionated treatment, ____ is not required for SRS technique.",C. a higher output accuracy,1
+"87. Compared to regular fractionated treatment, ____ is not required for SRS technique.",D. a higher precision in the coincidence of beam and gantry/couch isocenters.,0
+88. Which SRS delivery technique can treat two brain metastases simultaneously using a single isocenter treatment plan.,A. Arc plan with dynamic MLC.,1
+88. Which SRS delivery technique can treat two brain metastases simultaneously using a single isocenter treatment plan.,B. Arc plan with cones.,0
+88. Which SRS delivery technique can treat two brain metastases simultaneously using a single isocenter treatment plan.,C. Dynamic conformal Arc.,0
+88. Which SRS delivery technique can treat two brain metastases simultaneously using a single isocenter treatment plan.,D. Arc plan with static MLC.,0
+89. ___ is a test for MLC leaf positions.,A. Start shot for gantry isocentricity.,0
+89. ___ is a test for MLC leaf positions.,B. Winston-Lutz test.,0
+89. ___ is a test for MLC leaf positions.,C. Start shot for MLC isocentricity.,0
+89. ___ is a test for MLC leaf positions.,D. Picket fence test.,1
+"90. According to TG-142, which test does not need to be performed daily?",A. Door interlock,0
+"90. According to TG-142, which test does not need to be performed daily?",B. Output,0
+"90. According to TG-142, which test does not need to be performed daily?",C. Light field and radiation field coincidence,1
+"90. According to TG-142, which test does not need to be performed daily?",D. Laser accuracy,0
+91. Which of the following parameters is the most important for cone beam CT (CBCT) used in IGRT?,A. HU accuracy,0
+91. Which of the following parameters is the most important for cone beam CT (CBCT) used in IGRT?,B. Coincidence between the CBCT isocenter and the radiation beam isocenter,1
+91. Which of the following parameters is the most important for cone beam CT (CBCT) used in IGRT?,C. Spatial resolution,0
+91. Which of the following parameters is the most important for cone beam CT (CBCT) used in IGRT?,D. Field of view,0
+"92. According to TG-142, which is the tolerance for monthly output constancy?",A. 0.5%,0
+"92. According to TG-142, which is the tolerance for monthly output constancy?",B. 1%,0
+"92. According to TG-142, which is the tolerance for monthly output constancy?",C. 2%,1
+"92. According to TG-142, which is the tolerance for monthly output constancy?",D. 3%,0
+93. The quality assurance test for ____ is not addressed in TG-142.,A. CT simulator,1
+93. The quality assurance test for ____ is not addressed in TG-142.,B. MLC,0
+93. The quality assurance test for ____ is not addressed in TG-142.,C. CBCT,0
+93. The quality assurance test for ____ is not addressed in TG-142.,D. Planar MV imager,0
+94. Which of the following parameters is not needed in shielding calculations for the 2nd barriers?,A. Distance.,0
+94. Which of the following parameters is not needed in shielding calculations for the 2nd barriers?,B. Occupancy factor.,0
+94. Which of the following parameters is not needed in shielding calculations for the 2nd barriers?,C. Use factor.,1
+94. Which of the following parameters is not needed in shielding calculations for the 2nd barriers?,D. Workload.,0
+95. What is the occupancy factor used in shielding design for the nurse station next to a LINAC room?,A. 1,1
+95. What is the occupancy factor used in shielding design for the nurse station next to a LINAC room?,B. 1/5,0
+95. What is the occupancy factor used in shielding design for the nurse station next to a LINAC room?,C. 1/20,0
+95. What is the occupancy factor used in shielding design for the nurse station next to a LINAC room?,D. 1/40,0
+96. The proper order of materials for LINAC treatment room doors (from inside to outside) is ___.,"A. Steel, Borated polyethylene, Lead",1
+96. The proper order of materials for LINAC treatment room doors (from inside to outside) is ___.,"B. Lead, Borated polyethylene, Steel",0
+96. The proper order of materials for LINAC treatment room doors (from inside to outside) is ___.,"C. Borated polyethylene, Lead, Steel",0
+96. The proper order of materials for LINAC treatment room doors (from inside to outside) is ___.,"D. Borated polyethylene, Steel, Lead",0
+97. How many TVLs are needed to reduce the exposure rate to 1/5 of the original value?,A. 0.3,0
+97. How many TVLs are needed to reduce the exposure rate to 1/5 of the original value?,B. 0.5,0
+97. How many TVLs are needed to reduce the exposure rate to 1/5 of the original value?,C. 0.7,1
+97. How many TVLs are needed to reduce the exposure rate to 1/5 of the original value?,D. 1.0,0
+98. _____ has the highest radiation weighting factor.,A. 6 MV x-rays,0
+98. _____ has the highest radiation weighting factor.,B. 250 MeV protons,0
+98. _____ has the highest radiation weighting factor.,C. 6 MeV electrons,0
+98. _____ has the highest radiation weighting factor.,D. 100 keV neutrons,1
+99. Which of the following errors is not considered a Radiation Medical Event for a 5-fraction SBRT prostate treatment?,A. A total dose deviation of 25%.,0
+99. Which of the following errors is not considered a Radiation Medical Event for a 5-fraction SBRT prostate treatment?,B. The wrong patient was treated.,0
+99. Which of the following errors is not considered a Radiation Medical Event for a 5-fraction SBRT prostate treatment?,C. A single fraction dose deviation of 45%.,1
+99. Which of the following errors is not considered a Radiation Medical Event for a 5-fraction SBRT prostate treatment?,D. Dose was delivered to the liver.,0
+100. Which of the following factors is not needed for a FMEA process map in CT simulation of lung cancer?,A. Documenting immobilization devices used in CT sim.,0
+100. Which of the following factors is not needed for a FMEA process map in CT simulation of lung cancer?,B. Verifying bore size of CT sim.,1
+100. Which of the following factors is not needed for a FMEA process map in CT simulation of lung cancer?,C. Verifying HU accuracy of CT Sim in daily QA.,0
+100. Which of the following factors is not needed for a FMEA process map in CT simulation of lung cancer?,D. Verifying correct patient before CT Sim.,0
