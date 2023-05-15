@@ -14,7 +14,7 @@ Welcome to the **Radiation Oncology NLP Database**! This is the world's first de
 
 ## Introduction
 
-Radiation Oncology NLP Database aims to provide a comprehensive dataset for natural language processing tasks related to radiation oncology. It has been specifically designed to cover a wide range of topics and tasks to enable researchers to develop and test their algorithms in a relevant context.
+Radiation Oncology NLP Database aims to provide a comprehensive dataset for natural language processing tasks related to radiation oncology. It has been specifically designed to cover a wide range of topics and tasks to enable researchers to develop Radiation-Oncology centered language models and test NLP algorithms/methods on domain-specific data.
 
 ## Dataset Overview
 
