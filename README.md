@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo.png" width="400" height="200" alt="Logo">
+  <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo.png" width="400" height="400" alt="Logo">
 </p>
 
 Welcome to the **Radiation Oncology NLP Database**! This is the world's first dedicated NLP dataset for radiation oncology, and it covers various NLP tasks to help advance research in this field. 
