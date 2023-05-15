@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo.png" width="300" height="300" alt="Main Logo">
   <br>
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/logo1.png" width="100" height="100" alt="Logo1">
