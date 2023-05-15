@@ -2,12 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-https://github.com/zl-liu/Radiation-Oncology-NLP-Database/assets/43586038/e5416674-37f1-41bc-a886-2765409c2e4e
-
-
 <p align="center">
-  <video src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo-animated.mp4" width="200" height="200" autoplay muted loop playsinline>
+  <video src="https://github.com/zl-liu/Radiation-Oncology-NLP-Database/assets/43586038/e5416674-37f1-41bc-a886-2765409c2e4e" width="200" height="200" autoplay muted loop playsinline>
   Your browser does not support the video tag.
   </video>
 </p>
