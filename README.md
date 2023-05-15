@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Logo](https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/logo.png)
+
 Welcome to the **Radiation Oncology NLP Database**! This is the world's first dedicated NLP dataset for radiation oncology, and it covers various NLP tasks to help advance research in this field. 
 
 ## Table of Contents
