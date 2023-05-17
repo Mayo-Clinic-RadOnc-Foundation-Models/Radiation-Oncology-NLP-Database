@@ -1,6 +1,6 @@
 # Radiation Oncology NLP Database :earth_americas:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zl-liu/radiation-oncology-nlp-database/main/rond-logo.png" width="300" height="300" alt="Main Logo">
