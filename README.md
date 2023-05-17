@@ -88,7 +88,7 @@ For more information on how to contribute, check out our [CONTRIBUTING.md](CONTR
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more information.
+This project is licensed under the Apache 2.0 License. See [LICENSE.md](LICENSE.md) for more information.
 
 ## Contact
 
