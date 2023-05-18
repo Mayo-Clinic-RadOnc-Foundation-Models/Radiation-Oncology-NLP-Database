@@ -1,0 +1,200 @@
+1, Head and neck cancers of tumors located at the base of the skull where nerves come out.
+Label: _______
+2, Lung cancers in the middle of chest or near the esophagus.
+Label: _______
+3, Lower-cost option for prostate cancers.
+Label: _______
+4, Cancers in children.
+Label: _______
+5, Less sensitive to uncertainties.
+Label: _______
+6, Less sensitive to motions.
+Label: _______
+7, Lower integral dose.
+Label: _______
+8, Better protection of skin.
+Label: _______
+9, Tumors in brain and spine.
+Label: _______
+10, Cancer located in or around complicated anatomy.
+Label: _______
+11, Lower mean dose to uninvolved brain and contralateral hippocampus in lower-grade gliomas.
+Label: _______
+12, Reduced estimated secondary cancer risk in lower-grade gliomas.
+Label: _______
+13, Locally advanced lung cancer patients with pre-existing heart disease.
+Label: _______
+14, Locally advanced cancer, in combination with chemotherapy.
+Label: _______
+15, Pediatric and adolescent patients with craniopharyngioma.
+Label: _______
+16, Tumor dose escalation.
+Label: _______
+17, Treating cancers with MR image guidance.
+Label: _______
+18, Radiations that directly cause DNA damage.
+Label: _______
+19, Variable relative biological effectiveness.
+Label: _______
+20, Solid tumors with defined borders.
+Label: _______
+21, More supported by insurance providers.
+Label: _______
+22, More cost-effective for cancer treatment.
+Label: _______
+23, Early-stage lung cancer using SBRT.
+Label: _______
+24, Reduced total toxicity burden and postoperative complications scores for stage I-III esophageal cancer.
+Label: _______
+25, Lower requirement for gastrostomy tube placement for stage T1-4N0-3 nasopharynx cancer.
+Label: _______
+26, Lower risk of acute grade 3 mucositis and acute grade 2 xerostomia for stage T3-4N0-2 nasopharyngeal carcinoma patients.
+Label: _______
+27, High LET can hit outside the tumor and be harmful to critical organ.
+Label: _______
+28, Multi-leaf-collimator is used to deliver intensity modulated therapy.
+Label: _______
+29, Linear accelerator is used to produce the radiation.
+Label: _______
+30, Synchrotron or cyclotron is used to produce the radiation.
+Label: _______
+31, Magnetic field is used to direct the radiation.
+Label: _______
+32, Hypothetical retinoblastoma lesions in the nasal, central and temporal locations of the posterior retina.
+Label: _______
+33, Craniospinal irradiation in pediatric patients with medulloblastoma.
+Label: _______
+34, Breast cancer patients that have heart very close to chest wall, and also close to the tumor.
+Label: _______
+35, Left-sided breast cancer patients.
+Label: _______
+36, Recurrent breast cancer after traditional radiation.
+Label: _______
+37, Postmastectomy breast cancer patients using ultrahypofractionation.
+Label: _______
+38, Machines that produce and deliver the radiation beam are large, need dedicated space, and are very expensive.
+Label: _______
+39, More robust to interplay effect.
+Label: _______
+40, Patients who need chemotherapy.
+Label: _______
+41, Patients who cannot have reached their limit for traditional radiation.
+Label: _______
+42, Higher survival for non-small cell lung cancer with higher cost.
+Label: _______
+43, Maxillary sinus or paranasal/ethmoid sinus tumors.
+Label: _______
+44, Any type of gynecologic cancers, i.e., cervical cancer, ovarian cancer, uterine neoplasms, or vulvar cancer.
+Label: _______
+45, Primary cutaneous lymphoma.
+Label: _______
+46, Esophageal and esophagogastric junction cancers.
+Label: _______
+47, Disease sites that respond well to higher doses of radiation, i.e., dose escalation.
+Label: _______
+48, Uveal melanoma (ocular tumor).
+Label: _______
+49, chondrosarcoma and chordoma.
+Label: _______
+50, Improved survival and/or fewer side effects for hepatocellular carcinoma.
+Label: _______
+51, Postoperative patients receiving adjuvant radiation for oropharyngeal squamous cell cancer.
+Label: _______
+52, Irregular shaped lesions near critical structures.
+Label: _______
+53, Distal esophageal tumors.
+Label: _______
+54, Benign or malignant central nervous system tumors.
+Label: _______
+55, Malignant lesions of paranasal sinus and other accessory sinuses.
+Label: _______
+56, Unresectable retroperitoneal sarcoma.
+Label: _______
+57, Pituitary neoplasms.
+Label: _______
+58, The range of the radiation beam can be adjusted to match the extent of the tumor without exiting into normal tissues.
+Label: _______
+59, Much more accessible in the United States.
+Label: _______
+60, Extreme sensitivity to changes in the patient’s anatomy.
+Label: _______
+61, Breast cancer patients of various ages without cardiac risk factors.
+Label: _______
+62, Older men with prostate cancer.
+Label: _______
+63, Younger breast cancer patients or breast cancer patients with increased coronary heart disease risk.
+Label: _______
+64, Lower skin toxicities for breast cancer.
+Label: _______
+65, Breast cancer patients with internal mammary nodal metastases.
+Label: _______
+66, Adjuvant radiation therapy for patients with stage II thymic malignancies.
+Label: _______
+67, Decreased toxicity and reduced secondary cancer risk in stage IIA/B seminoma.
+Label: _______
+68, Postmastectomy radiation with cardiopulmonary sparing.
+Label: _______
+69, Adjuvant radiation therapy for early stage seminoma.
+Label: _______
+70, Dome and central tumors larger than 3 cm in liver when using SBRT.
+Label: _______
+71, Risk reduction in grade 4 lymphopenia during in neoadjuvant chemoradiation therapy in esophagus cancer.
+Label: _______
+72, Risk reduction in radiation-induced lymphopenia during chemoradiotherapy for locally advanced non-small cell lung cancer.
+Label: _______
+73, Early stage lung cancer patients with high risk of pulmonary toxicity when treating with SBRT.
+Label: _______
+74, Pre-operative radiation for soft tissue sarcoma.
+Label: _______
+75, Locally advanced stage III esophageal squamous cell carcinoma.
+Label: _______
+76, Improved overall survival for patients with gliomas.
+Label: _______
+77, Testicular seminoma.
+Label: _______
+78, Definitive chemoradiotherapy for esophageal cancer.
+Label: _______
+79, Commercially available online adaptive therapy.
+Label: _______
+80, Radiation as part of primary or salvage treatment of adult craniopharyngioma.
+Label: _______
+81, Hodgkin lymphoma patients.
+Label: _______
+82, High-dose pelvic node radiation therapy delivered for patients with pelvic node adenopathy.
+Label: _______
+83, Radiosurgical treatment of liver metastases.
+Label: _______
+84, Reduced the acute gastrointestinal toxicities associated with irradiation when treating children with brain tumors using craniospinal irradiation.
+Label: _______
+85, Dose distribution more sensitive to anatomical heterogeneity.
+Label: _______
+86, Retroperitoneal sarcoma.
+Label: _______
+87, Localized unresectable hepatocellular carcinoma.
+Label: _______
+88, Intracranial arteriovenous malformation.
+Label: _______
+89, Higher LET and RBE near the distal edges could lead to higher severe toxicities.
+Label: _______
+90, Reduced adverse effects, particularly cognitive dysfunction for brain tumors.
+Label: _______
+91, Reduced toxicities and hospitalization in the treatment of head and neck malignancies.
+Label: _______
+92, Reduced symptom burden within 3 months after treatment for oropharyngeal cancer patients.
+Label: _______
+93, Lower doses to hippocampi and other brain structures for skull-base meningiomas.
+Label: _______
+94, Reduced dysphagia for patients with tumor in the upper head and neck area.
+Label: _______
+95, Pediatric orbital rhabdomyosarcoma.
+Label: _______
+96, Children and adolescent treated for craniopharyngioma using limited surgery and post-operation radiation.
+Label: _______
+97, Lower risk of hypothyroidism among craniospinal irradiation patients.
+Label: _______
+98, Lower vertebral bone marrow dose during chemoradiation therapy of esophageal cancer.
+Label: _______
+99, Locally advanced pancreatic cancer.
+Label: _______
+100, Vestibular schwannomas less than 3.0-4.0 cm in size.
+Label: _______
