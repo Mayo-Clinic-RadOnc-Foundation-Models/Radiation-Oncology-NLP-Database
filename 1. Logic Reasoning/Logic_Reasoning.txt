@@ -1,4 +1,5 @@
-﻿1. Does the half life of a radioactive element affected by conditions or the initial amount of that isotope?
+﻿
+1. Does the half life of a radioactive element affected by conditions or the initial amount of that isotope?
 No
 
 2. Does atom consist of a positively charged nucleus surrounded by a cloud of negatively charge electron?
