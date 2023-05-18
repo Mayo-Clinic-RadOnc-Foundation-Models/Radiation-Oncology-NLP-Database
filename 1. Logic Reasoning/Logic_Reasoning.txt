@@ -1,0 +1,327 @@
+﻿1. Does the half life of a radioactive element affected by conditions or the initial amount of that isotope?
+No
+
+2. Does atom consist of a positively charged nucleus surrounded by a cloud of negatively charge electron?
+Yes
+
+3. Does the maximum possible number of electrons in any orbit independent on the orbit number?
+Yes
+
+4. Does the binding energy of electrons in various orbits depend on the magnitude of the Coulomb force of attraction between the positively charged nucleus and the negatively charged electrons?
+Yes
+
+5. Does the X-ray spectrum emitted by an X-ray tube only depend on the accelerating voltage?
+No
+
+6. In X-ray production, the higher the energy of electrons bombarding the target, the more forward the direction of x-ray emission.
+Yes
+
+7. In X-ray production, does the efficiency of x-ray production depend on the size of target[LC1]?
+No
+
+8. Geometric penumbra[LC2] is caused by variable transmission of beam through nondivergent collimator edge.
+No
+
+9. Transmission penumbra[LC3] is due to the finite dimensions of the focal spot.
+No
+
+10. The width of geometric penumbra increases with increase in source-to-surface distance and depth.
+Yes
+
+11. Physical penumbra is influenced by geometric penumbra, beam energy, and the lateral transport of electrons in the tissues.
+Yes
+
+12. Protons, photons[LC4], and heavier charged particles exhibit Bragg peak.
+No
+
+13. Charged [LC5]particles are indirectly ionizing. They liberate directly ionizing particles that are responsible for producing ionization and excitation of atoms.
+No
+
+14. Photon beams interact with matter through five major processes: coherent scattering, photoelectric effect, Compton effect, pair production and nuclear[LC6] disintegrations.
+No
+
+15. Compton interaction probability in water decreases [LC7]with photon energy from 10 to 150keV.
+No
+
+16. Compton interaction probability is almost independent of Z. It depends on electron density.
+Yes
+
+17. Pair production probability decreases [LC8]slowly with energy beyond 1.02MeV.
+No
+
+18. The Bragg peak is not observed in electron beams because it does not exist[LC9]. 
+No
+
+19. Lead is an efficient absorber of neutrons[LC10], but not of x-rays[LC11]. The most efficient absorber of x-ray[LC12]s is a hydrogenous material such as water, paraffin wax, and polyethylene.
+No
+
+20. For diagnostic, superficial, and orthovoltage[LC13] x-ray beams, the quality of x-ray beams is specified by megavoltage and percent depth dose in water. 
+No
+
+21. For Megavoltage [LC14]x-ray beams, the quality of beams is specified by kVp, filtration, and half value layer.
+No
+
+22. In clinical practice, the most commonly used methods to measure the peak energy of a megavoltage x-ray beam are scintillation spectrometry or photoactivation of appropriate foils[LC15]. 
+No 
+
+23. For low-energy x-ray beams such as orthovoltage and superficial, the absorbed dose in bone is two to four times the absorbed dose in soft tissues for the same exposure because of the significant probability of the Compton [LC16]effect.
+No
+
+24. For megavoltage photon beams, the absorbed dose in bone is slightly higher [LC17]than that in soft tissue because of the predominance of the Compton effect.
+No
+
+25. All recent calibration protocols (TG-21, TG-51, and IAEA TRS-398) use Bragg-Gray cavity theory.
+Yes
+
+26. In TG-51, beam quality for photon [LC18]beam is specified by the depth of 50% dose in water (R50).
+No
+
+37. In TG-51, beam quality for electron [LC19]beam is specified by percent depth dose for the electron [LC20]component of the beam at 10cm depth in water.
+No
+
+38. TLD response is almost independent of energy in the megavoltage range of photon and electron beams used clinically.
+Yes
+
+39. The TLD dosimeter form and size are independent of[LC21] dosimetry for certain beams and irradiation conditions.
+No 
+
+40. The sensitivity of radiographic film depends on the size of emulsion grains and the quality and the type pf radiation.
+Yes
+
+41. The major advantage of radiochromic film include almost tissue equivalence, high spatial resolution, sensitivity [LC22]to visible light, and no need for processing.
+No
+
+42. Percent depth dose for photon beams[LC23] in water decrease almost exponentially. 
+No
+
+43. Parallel opposed beams give rise to greater dose at midpoint t[LC24]han at superficial depths.[LC25]
+No
+
+44. CT numbers bear a linear relationship with attenuation coefficients.
+Yes
+
+45. Imaging modalities such as ultrasound, MRI are useful in mapping out structural and functional anatomy, and their signal values can be[LC26] correlated with electron density by scanning phantom.
+No
+
+46. Accelerator-amounted accessories such as EPID and CBCT systems allow treatment verification before and during treatments. It is not [LC27]necessary when using conformal radiation therapy techniques such as 3-D CRT.
+No
+
+47. As the MRI simulator develops, radiographic and/or CT simulators are not an essential part of the treatment planning process.
+No
+
+48. In photon treatment plan, surface dose usually increases with increasing angle of obliquity.
+Yes
+
+49. Electron beams have a modest skin-sparing effect, which gradually disappears with decreasing [LC28]energies.
+No
+
+50. Beam obliquity changes the percentage depth dose, giving rise to increase in dose at dmax, and decrease in depth dose beyond.
+Yes
+
+51. Total skin electron irradiation is a useful technique for the treatment of mycosis fungoides. If the linac machine is commissioned for clinical electron beam, considerable dosimetry is not [LC29]required before commissioning the procedure for actual treatments.
+No
+
+52. Large volume ion chambers are suitable for measure neutrons.
+No
+
+53. If a complicated treatment plan using intensity-modulated radiotherapy was approved by a senior physician, a QA program (patient-specific quality assurance) is not essential.
+No
+
+54. Dosimetry of small fields as used in SRS or SRT is complex because of a possible lack of charged particle equilibrium.
+Yes
+
+55. In proton therapy, most protons travel in a nearly straight line because the proton mass is 1832 times greater than that of an electron.
+Yes
+
+56. In proton therapy, a proton passing close to the atomic nucleus experiences a repulsive elastic Coulombic interaction and the proton can still keep [LC30]ithe original straight-line trajectory.
+No
+
+57. Clinical proton beam parameters, such as dose, dose rate, range, distal falloff, penumbra, and degree of dose conformity, are associated with the parameters such as beam current, beam energy, beam shape and size, and beam position.
+Yes
+
+58. Due to normal tissue protection, the treatment beam in intensity-modulated proton therapy should take the shortest path[LC31] to reach the tumor by using multiple beam directions.
+No
+
+59. Prostate treatment using proton therapy uses only lateral beams. Treatments of ocular melanoma have always used fixed proton beamlines, and other treatment sites with fixed proton beams are under development. Therefore, the gantry system is not necessary.
+No
+
+60. After the proton are accelerated, they are transported into the treatment room through the beamline. The proton beam that reaches the treatment room is nearly monoenergetic and has a lateral spread of only a few millimeters.
+Yes
+
+61. In general, there are two methods of lateral proton beam spreading applied in clinical treatment: passive scattering, in which low[LC32]-Z materials scatter the proton beam to the desired dimension, and magnetic beam scanning, in which magnetic fields sweep the proton beam over the desired area.
+No  
+
+62. When looking at the depth-dose curve of monoenergetic proton beam, it is obvious that the Bragg peak is too sharp to cover a target of any reasonable size. By using range modulation techniques, the Bragg peak can be transformed into a plateau to cover the target in the lateral [LC33]direction.
+No
+
+63. When considering how a proton beam can be used for clinical purposes, one must factor in both the biological and physical effects.
+Yes
+
+64. During proton treatment, the accelerator and the beam transport system transport to the patient a monoenergetic beam with a small lateral cross section.
+Yes
+
+65. The effect of proton radiation are biological, like drugs, and far less predictable than previously thought, leading to current uncertainties about the RBE of protons, which appears to vary according to beam energy, linear energy transfer, tissues, point along the Bragg peak, and fraction size.
+Yes
+
+66. In proton therapy, the elastic [LC34]collisions with nuclei, losing the primary particle and producing neutrons and proton scattered with large angles.
+No
+
+67. In proton therapy, the inelastic collisions with photons and neutrons, causing ionizations and excitations of the atomic targets, largely responsible for the absorbed dose in the media of interest clinically.
+No
+
+68. For both passive and dynamic proton delivery systems, the multiple Coulomb scattering of charged particles into the patient itself increases the beam lateral penumbra following a law with a power of the inverse of the distance to the source[LC35].
+No
+
+69. The nuclear interactions[LC36] in the proton beam line and in the air before arriving to the patient are the important contributors to the lateral penumbra for rather superficial tumors treated with low energies.
+No
+
+70. When treating deep tumors with high proton energies, it is the multiple scatter in the patient which mainly determines the lateral penumbra in depth.
+Yes
+
+71. When using the rectal spacer hydrogel before proton therapy in the patients with prostate cancer, the spacer hydrogel can be simplified as water[LC37] if its CT density is close to water.
+No
+
+72. Energy deposition events associated with radiation interactions with tissues can cause damage to cellular structures such as the cell membrane and mitochondria[LC38], which is the main mechanism of interest for radiotherapy.
+No
+
+73. The LET is a macroscopic dosimetric parameter because it does not describe energy deposition in a biological target, but rather the energy deposition per path length of a particle.
+Yes
+
+74. The increase in RBE as a function of the depth in an SOBP also impacts the position of the distal dose fall-off. An increasing RBE with depth due to LET increase can lead to a shift in the dose fall-off of a few cm[CL39].
+No
+
+75. The RBE increases with increasing dose-weighted LET, which increases with increasing depth if an SOBP is being delivered. Consequently, the RBE is expected to be significantly lower [CL40]toward the distal end of an SOBP.
+No
+
+76. The proton beam intensity from the accelerator needs to be sufficient. In principle, cyclotrons and synchrotrons are accelerators capable of delivering sufficient high beam intensities. Depending on the proton source, one should even protect against too high beam intensities when using a cyclotron.
+Yes
+
+77. Synchrocyclotrons typically deliver a continuous [CL41]beam only during 1% of the time that a normal cyclotron would provide beam.
+No
+
+78. Synchrotrons are able to give enough intensity, but the achieved values are limited by electric field that oscillates with a certain frequency in the radio frequency range[CL42].
+No
+
+79. New proton-specific image modalities such as proton CT are under development and other image modalities, such as PET or gamma imaging, have been adapted or are under development for the purpose of proton range verification.
+Yes
+
+80. While the HU are dominated by the relative electron density (RED), the translation from HU to RED is linear [CL43]and requires calibration. A typical HU-to-RED curve has two separate straight-line fits: one for HUs up to water and one for higher Hus- because of the transition from predominantly Compton effect to predominantly photoelectric effect for higher-Z materials.
+No
+
+81. Proton depth-dose profiles are measured in water for a range of proton beam energies during commissioning. For material other than water, the proton ranges are scaled by the material’s relative biological effect[CL44].
+No
+
+82. Since HU vary with multiple parameters, such as imaging beam quality, phantom size, and the material’s location within the phantom, the use of multiple calibration curves should be considered.
+Yes
+
+83. For some patients, contrast material is injected during the planning CT to aid volume segmentation. Since the contrast material is not present during treatment, it is OK to use a contrast[LC45] CT for proton planning purposes.
+No
+
+84. A number of artifact reduction algorithms have been developed to correct conventional kV-CT planning studies that are affected by artifacts from metal and other high-density material. So, the CT images corrected by metal artifact reduction can be fully trusted in proton therapy. 
+No
+
+85. Proton CT has a problem with spatial resolution, i.e., the blurring of edges and washing out of small heterogeneities due to multiple Coulomb scattering, which is most pronounced in dense and low[LC46]-atomic-number materials, such as bone.
+No
+
+86. Task Group 142 (TG-142) of the American Association of Physicists in Medicine (AAPM) recommends that the collimator, couch, and the gantry rotation isocenters should be checked against baseline with ±1 mm tolerance during annual Quality Assurance (QA). The Linac isocenter diameter is evaluated with picket fence[LC47] pattern formed by radiation fields measured on an Electronic Portal Imaging Device (EPID) the collimator is rotated around the isocenter.
+No
+
+87. Task Group 142 (TG-142) of the American Association of Physicists in Medicine (AAPM) recommends that the coincidence of radiation and mechanical isocenter should be checked against baseline during annual Quality Assurance. The coincidence of radiation and mechanical isocenters is evaluated by star-shot [LC48]test. It captures the image of a BB phantom aligned to the lasers in a collimated radiation field measured on an Electronic Portal Imaging Device (EPID) at various gantry and couch angles. The center of the collimated field and the center of the BB are measured and compared.
+No
+
+88. To verify the positional accuracy of the multi-leaf collimator, Winston lutz [LC49]pattern is formed by radiation fields measured on an Electronic Portal Imaging Device (EPID) as all leaves are moved across the field of view at the same speed with several stops at measured intervals.
+No
+
+89. Significant gains are still to be made by the optimization of biological and physical factors, particularly in the domain of biologically based treatment planning and image-guided therapy.
+Yes
+
+90. Machine learning (ML) plays an essential role in computer-aided detection and diagnosis system, because objects such as lesions and organs in medical images may be too complex to be represented accurately by a simple equation; modeling of such complex objects often requires a number of parameters that have to be determined by data.
+Yes
+
+91. To be able to set up a multicenter machine learning environment, only one [LC50]biomedical informatics-related issue needs to be addressed. It [LC51]is semantic interoperability among participating centers. The infrastructure (both institutional and central) and privacy preservation have been [LC52]addressed and may influence the choice for a centralized or distributed approach.
+No
+
+92. The record and verification (R&V) systems are the link between the TPS and the linac: all parameters such as number of treatment fields, gantry and collimator angle, MLC positions, table position, dose and dose rate, beam quality, clinical medical electronic record,[LC53] and number of treatment sessions are transferred from the TPS to the R&V system. 
+No
+
+93. Based on quality assurance requirements, often required by law, the treatment planning [LC54]system has the role of guaranteeing the correct transfer of all geometrical und radiological data from the TPS to the linac.
+No
+
+94. In radiation oncology, probably more than in other medical specialties, the design and implementation of electronic information systems occur due to the need to reduce and eliminate human error in treatment – such as during the transfer of information from treatment planning to treatment delivery.
+Yes
+
+95. Craniospinal irradiation involves the irradiation of a large volume of tissue that includes the entire craniospinal axis. When radiation therapy to the craniospinal axis is not conformal enough, there is a potential for the irradiation of a very small [LC55]volume of normal tissue that sits anterior to the craniospinal region.
+No
+
+96. Since the life span of a cyclotron can range from thirty to fifty years, which is significantly longer that the life span of a linear accelerator, proton beam therapy is less expensive to deliver than photons.
+No
+
+97. Proton beam therapy can reduce risk of secondary malignancy compared with photons in the appropriately selected patient. This is especially important in the pediatric patient.
+Yes
+
+98. During proton therapy treatment planning, it is not necessary [LC56]to try to limit or avoid having critical normal structures located at that distal end of the range of travel if feasible.
+No
+
+99. The use of advanced imaging tools can lead to an improvement in the delineation of the target volume and adjacent normal tissues, thereby allowing the treatment planning team to better sculpt the dose that is delivered to the region of cancer while shielding nearby normal tissues from the harmful effects of radiation.
+Yes
+
+100. IMRT allows optimization of the delivered dose through inverse treatment planning so that the high-dose region better conforms to the organs-at-risk[LC57] while the treatment planning software uses a sophisticated computer planning algorithm to drive down the dose that is delivered to adjacent normal tissues.
+No
+
+Atomic number of the target and voltage applied to the tube
+Transmission penumbra
+Geometric penumbra
+Remove
+Uncharged particles
+Photo gisintegration
+increases
+increases
+excessive scattering and smearing of the Bragg peaks
+x-rays
+neutrons
+neutrons
+megavoltage
+diagnostic, superficial, and orthovoltage
+comparing measured percent depth dose distribution in water with published/previous data.
+Photoelectric
+Less
+electron
+photon
+photon
+may affect
+insensitivity
+beyond the depth of the maximum dose
+superficial depths
+midpoint
+not 
+is
+increasing
+is
+owing to the large mass of the nucleus, it deflects the proton from its original straight-line trajectory
+[LC31]Including those with longer beam paths
+[LC32]high
+[LC33]distal
+[LC34]inelastic
+[LC35]particle speed
+[LC36]multiple scattering
+[LC37]involves an understanding of range, WET, effective Z, and other factors.
+[LC38]DNA
+[CL39]mm
+[CL40]higher
+[CL41]pulsed
+[CL42]the amount of protons that can be injected in a single spill
+[CL43]Not linear
+[CL44]stopping power ratio relative to water.
+[LC45]Preferable to use a non-contrast CT
+[LC46]high
+[LC47]star-shot
+[LC48] Winston Lutz 
+[LC49]picket fence
+[LC50]several
+[LC51]The most important issue
+[LC52]needs to be
+[LC53]remove
+[LC54]Record and verification
+[LC55]large
+[LC56]important
+[LC57]target volume
