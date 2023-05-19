@@ -37,8 +37,10 @@ def chatgpt_completion(model_new, prompt_new, max_tokens_new=100):
     return completion.choices[0].message.content
 
 # Extract data from the text file
-file_path = Path(r'/2. Text Classification/Text_Classification.txt')
+file_path = Path(r'C:\Users\zheng\Downloads\Radiation-Oncology-NLP-Database\2-Text Classification\Text_Classification.txt')
 data = extract_data(file_path)
+
+print(data)
 
 # Build the prompt
 prompt = "Learn the format from these first 5 description-label pair examples from radiation oncology:\n"

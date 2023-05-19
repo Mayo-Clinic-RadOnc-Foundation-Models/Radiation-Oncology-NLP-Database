@@ -1,6 +1,6 @@
 ﻿
 1, Head and neck cancers of tumors located at the base of the skull where nerves come out.
-Label: Proton therapy.
+Label: Proton therapy
 
 2, Lung cancers in the middle of chest or near the esophagus.
 Label: Proton therapy
