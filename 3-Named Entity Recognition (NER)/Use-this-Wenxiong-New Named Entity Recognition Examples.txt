@@ -1,0 +1,184 @@
+﻿1. 'Sentence': Dr. Singh suggested a 60 Gy regimen of stereotactic body radiation therapy for the patient diagnosed with non-small cell lung cancer, with consideration to the potential effects on the nearby heart and esophagus.
+
+
+'Tokens': [Dr., Singh, suggested, a, 60, Gy, regimen, of, stereotactic, body, radiation, therapy, for, the, patient, diagnosed, with, non-small, cell, lung, cancer, with, consideration, to, the, potential, effects, on, the, nearby, heart, and, esophagus]
+
+
+'NER tags': [Dr. (B-PERSON), Singh (I-PERSON), suggested (O), a (O), 60 (B-NUMBER), Gy (I-NUMBER), regimen (O), of (O), stereotactic (B-TREATMENT), body (I-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), for (O), the (O), patient (O), diagnosed (O), with (O), non-small (B-DISEASE), cell (I-DISEASE), lung (I-DISEASE), cancer (I-DISEASE), with (O), consideration (O), to (O), the (O), potential (O), effects (O), on (O), the (O), nearby (O), heart (B-ANATOMY), and (O), esophagus (B-ANATOMY)]
+
+
+2. 'Sentence': Dr. Miller proposed a 45 Gy course of intensity-modulated radiation therapy for the patient with localized prostate cancer, paying attention to the possible side effects on the adjacent bladder and rectum.
+
+
+'Tokens': [Dr., Miller, proposed, a, 45, Gy, course, of, intensity-modulated, radiation, therapy, for, the, patient, with, localized, prostate, cancer, paying, attention, to, the, possible, side, effects, on, the, adjacent, bladder, and, rectum]
+
+
+'NER tags': [Dr. (B-PERSON), Miller (I-PERSON), proposed (O), a (O), 45 (B-NUMBER), Gy (I-NUMBER), course (O), of (O), intensity-modulated (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), for (O), the (O), patient (O), with (O), localized (B-DISEASE), prostate (I-DISEASE), cancer (I-DISEASE), paying (O), attention (O), to (O), the (O), possible (O), side (O), effects (O), on (O), the (O), adjacent (O), bladder (B-ANATOMY), and (O), rectum (B-ANATOMY)]
+
+
+3. 'Sentence': In a clinical trial led by Dr. Roberts, 60 patients with brain metastases received whole-brain radiation therapy, and it was discovered that the addition of memantine significantly reduced cognitive decline symptoms, such as memory loss and attention deficits.
+
+
+'Tokens': [In, a, clinical, trial, led, by, Dr., Roberts, 60, patients, with, brain, metastases, received, whole-brain, radiation, therapy, and, it, was, discovered, that, the, addition, of, memantine, significantly, reduced, cognitive, decline, symptoms, such, as, memory, loss, and, attention, deficits]
+
+
+'NER tags': [In (O), a (O), clinical (O), trial (O), led (O), by (O), Dr. (B-PERSON), Roberts (I-PERSON), 60 (B-NUMBER), patients (O), with (O), brain (B-DISEASE), metastases (I-DISEASE), received (O), whole-brain (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), and (O), it (O), was (O), discovered (O), that (O), the (O), addition (O), of (O), memantine (B-TREATMENT), significantly (O), reduced (O), cognitive (B-SYMPTOM), decline (I-SYMPTOM), symptoms (O), such (O), as (O), memory (B-SYMPTOM), loss (I-SYMPTOM), and (O), attention (B-SYMPTOM), deficits (I-SYMPTOM)]
+
+
+4. 'Sentence': Dr. Williams conducted a study with 90 patients diagnosed with esophageal cancer, and it was found that concurrent chemoradiation therapy led to increased locoregional control and overall survival, compared to sequential chemoradiation therapy.
+
+
+'Tokens': [Dr., Williams, conducted, a, study, with, 90, patients, diagnosed, with, esophageal, cancer, and, it, was, found, that, concurrent, chemoradiation, therapy, led, to, increased, locoregional, control, and, overall, survival, compared, to, sequential, chemoradiation, therapy]
+
+
+'NER tags': [Dr. (B-PERSON), Williams (I-PERSON), conducted (O), a (O), study (O), with (O), 90 (B-NUMBER), patients (O), diagnosed (O), with (O), esophageal (B-DISEASE), cancer (I-DISEASE), and (O), it (O), was (O), found (O), that (O), concurrent (B-TREATMENT), chemoradiation (I-TREATMENT), therapy (I-TREATMENT), led (O), to (O), increased (O), locoregional (B-OUTCOME), control (I-OUTCOME), and (O), overall (B-OUTCOME), survival (I-OUTCOME), compared (O), to (O), sequential (B-TREATMENT), chemoradiation (I-TREATMENT), therapy (I-TREATMENT)]
+
+
+5. 'Sentence': The patient with a T2N1M0 rectal cancer experienced less gastrointestinal side effects after receiving volumetric-modulated arc therapy (VMAT) as compared to the conventional conformal radiation therapy.
+
+
+'Tokens': [The, patient, with, a, T2N1M0, rectal, cancer, experienced,
+
+
+ less, gastrointestinal, side, effects, after, receiving, volumetric-modulated, arc, therapy, (VMAT), as, compared, to, the, conventional, conformal, radiation, therapy]
+
+
+'NER tags': [The (O), patient (O), with (O), a (O), T2N1M0 (B-DISEASE), rectal (I-DISEASE), cancer (I-DISEASE), experienced (O), less (O), gastrointestinal (B-SYMPTOM), side (I-SYMPTOM), effects (I-SYMPTOM), after (O), receiving (O), volumetric-modulated (B-TREATMENT), arc (I-TREATMENT), therapy (I-TREATMENT), (VMAT) (I-TREATMENT), as (O), compared (O), to (O), the (O), conventional (B-TREATMENT), conformal (I-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT)]
+
+
+6. 'Sentence': Professor Chen indicated that stereotactic body radiotherapy (SBRT) was beneficial for patients with inoperable lung cancer.
+
+
+'Tokens': [Professor, Chen, indicated, that, stereotactic, body, radiotherapy, (SBRT), was, beneficial, for, patients, with, inoperable, lung, cancer]
+
+
+'NER tags': [Professor (B-PERSON), Chen (I-PERSON), indicated (O), that (O), stereotactic (B-TREATMENT), body (I-TREATMENT), radiotherapy (I-TREATMENT), (SBRT) (I-TREATMENT), was (O), beneficial (O), for (O), patients (O), with (O), inoperable (B-DISEASE), lung (I-DISEASE), cancer (I-DISEASE)]
+
+
+7. 'Sentence': 75 Gy Intensity-Modulated Radiation Therapy (IMRT) showed improved local control in patients with prostate cancer, as observed by Dr. Foster.
+
+
+'Tokens': [75, Gy, Intensity-Modulated, Radiation, Therapy, (IMRT), showed, improved, local, control, in, patients, with, prostate, cancer, as, observed, by, Dr., Foster]
+
+
+'NER tags': [75 (B-NUMBER), Gy (I-NUMBER), Intensity-Modulated (B-TREATMENT), Radiation (I-TREATMENT), Therapy (I-TREATMENT), (IMRT) (I-TREATMENT), showed (O), improved (B-OUTCOME), local (I-OUTCOME), control (I-OUTCOME), in (O), patients (O), with (O), prostate (B-DISEASE), cancer (I-DISEASE), as (O), observed (O), by (O), Dr. (B-PERSON), Foster (I-PERSON)]
+
+
+8. 'Sentence': A 66-year-old patient with advanced head and neck cancer underwent a course of Proton Beam Therapy (PBT), according to the report by Dr. Suzuki.
+
+
+'Tokens': [A, 66-year-old, patient, with, advanced, head, and, neck, cancer, underwent, a, course, of, Proton, Beam, Therapy, (PBT), according, to, the, report, by, Dr., Suzuki]
+
+
+'NER tags': [A (O), 66-year-old (B-PERSON), patient (I-PERSON), with (O), advanced (B-DISEASE), head (I-DISEASE), and (I-DISEASE), neck (I-DISEASE), cancer (I-DISEASE), underwent (O), a (O), course (O), of (O), Proton (B-TREATMENT), Beam (I-TREATMENT), Therapy (I-TREATMENT), (PBT) (I-TREATMENT), according (O), to (O), the (O), report (O), by (O), Dr. (B-PERSON), Suzuki (I-PERSON)]
+
+
+9. 'Sentence': Dr. Gonzalez's team discovered that patients with cervical cancer had less recurrence when treated with brachytherapy instead of conventional external beam radiotherapy.
+
+
+'Tokens': [Dr., Gonzalez's, team, discovered, that, patients, with, cervical, cancer, had, less, recurrence, when, treated, with, brachytherapy, instead, of, conventional, external, beam, radiotherapy]
+
+
+'NER tags': [Dr. (B-PERSON), Gonzalez's (I-PERSON), team (O), discovered (O), that (O), patients (O), with (O), cervical (B-DISEASE), cancer (I-DISEASE), had (O), less (B-OUTCOME), recurrence (I-OUTCOME), when (O), treated (O), with (O), brachytherapy (B-TREATMENT), instead (O), of (O), conventional (B-TREATMENT), external (I-TREATMENT), beam (I-TREATMENT), radiotherapy (I-TREATMENT)]
+
+
+10. 'Sentence': A trial led by Dr. Klein found that concurrent administration of chemotherapy and radiotherapy significantly improved survival rates for patients with advanced nasopharyngeal carcinoma.
+'Tokens': [A, trial, led, by, Dr., Klein, found, that, concurrent, administration, of, chemotherapy, and, radiotherapy, significantly, improved, survival, rates, for, patients, with, advanced, nasopharyngeal, carcinoma]
+
+
+'NER tags': [A (O), trial (O), led (O), by (O), Dr. (B-PERSON), Klein (I-PERSON), found (O), that (O), concurrent (B-TREATMENT), administration (I-TREATMENT), of (I-TREATMENT), chemotherapy (I-TREATMENT), and (I-TREATMENT), radiotherapy (I-TREATMENT), significantly (O), improved (B-OUTCOME), survival (I-OUTCOME), rates (I-OUTCOME), for (O), patients (O), with (O), advanced (B-DISEASE), nasopharyngeal (I-DISEASE), carcinoma (I-DISEASE)]
+
+
+11. 'Sentence': Dr. Johnson found that the patient with rectal cancer experienced a lessening of rectal bleeding after completing a 55 Gy course of image-guided radiation therapy (IGRT) over 25 fractions.
+
+
+'Tokens': [Dr., Johnson, found, that, the, patient, with, rectal, cancer, experienced, a, lessening, of, rectal, bleeding, after, completing, a, 55, Gy, course, of, image-guided, radiation, therapy, (IGRT), over, 25, fractions]
+
+
+'NER tags': [Dr. (B-PERSON), Johnson (I-PERSON), found (O), that (O), the (O), patient (O), with (O), rectal (B-DISEASE), cancer (I-DISEASE), experienced (O), a (O), lessening (B-OUTCOME), of (I-OUTCOME), rectal (I-OUTCOME), bleeding (I-OUTCOME), after (O), completing (O), a (O), 55 (B-NUMBER), Gy (I-NUMBER), course (O), of (O), image-guided (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), (IGRT) (I-TREATMENT), over (O), 25 (B-NUMBER), fractions (I-NUMBER)]
+
+
+
+
+12. 'Sentence': On Tuesday, the 7th of May, Dr. Howard and his team of six medical physicists determined that a total of 45 Gray of intensity-modulated radiation therapy (IMRT) would be most effective for the 70-year-old Mrs. Brooks, who was experiencing severe bone pain due to metastatic lesions in her pelvis.
+
+
+'Tokens': [On, Tuesday,, the, 7th, of, May,, Dr., Howard, and, his, team, of, six, medical, physicists, determined, that, a, total, of, 45, Gray, of, intensity-modulated, radiation, therapy, (IMRT), would, be, most, effective, for, the, 70-year-old, Mrs., Brooks,, who, was, experiencing, severe, bone, pain, due, to, metastatic, lesions, in, her, pelvis]
+
+
+'NER tags': [On (O), Tuesday, (B-DATE), the (I-DATE), 7th (I-DATE), of (I-DATE), May, (I-DATE), Dr. (B-PERSON), Howard (I-PERSON), and (O), his (O), team (O), of (O), six (B-NUMBER), medical (I-PERSON), physicists (I-PERSON), determined (O), that (O), a (O), total (O), of (O), 45 (B-NUMBER), Gray (I-NUMBER), of (O), intensity-modulated (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), (IMRT) (I-TREATMENT), would (O), be (O), most (O), effective (O), for (O), the (O), 70-year-old (B-PERSON), Mrs. (I-PERSON), Brooks, (I-PERSON), who (O), was (O), experiencing (O), severe (B-OUTCOME), bone (I-OUTCOME), pain (I-OUTCOME), due (O), to (O), metastatic (B-DISEASE), lesions (I-DISEASE), in (O), her (O), pelvis (B-ANATOMY)]
+
+
+13. 'Sentence': The 70-year-old patient, Mr. Johnson, has been experiencing severe coughing and shortness of breath due to a tumor in his left lung, which the team led by Dr. Phillips, a radiation oncologist, and Dr. Kelly, a medical physicist, plans to treat using 12 sessions of stereotactic body radiotherapy.
+
+
+'Tokens': [The, 70-year-old, patient,, Mr., Johnson,, has, been, experiencing, severe, coughing, and, shortness, of, breath, due, to, a, tumor, in, his, left, lung,, which, the, team, led, by, Dr., Phillips,, a, radiation, oncologist,, and, Dr., Kelly,, a, medical, physicist,, plans, to, treat, using, 12, sessions, of, stereotactic, body, radiotherapy]
+
+
+'NER tags': [The (O), 70-year-old (B-PERSON), patient, (I-PERSON), Mr. (I-PERSON), Johnson, (I-PERSON), has (O), been (O), experiencing (O), severe (B-OUTCOME), coughing (I-OUTCOME), and (I-OUTCOME), shortness (I-OUTCOME), of (I-OUTCOME), breath (I-OUTCOME), due (O), to (O), a (O), tumor (B-DISEASE), in (O), his (O), left (B-ANATOMY), lung, (I-ANATOMY), which (O), the (O), team (O), led (O), by (O), Dr. (B-PERSON), Phillips, (I-PERSON), a (O), radiation (B-PERSON), oncologist, (I-PERSON), and (O), Dr. (B-PERSON), Kelly, (I-PERSON), a (O), medical (B-PERSON), physicist, (I-PERSON), plans (O), to (O), treat (O), using (O), 12 (B-NUMBER), sessions (I-NUMBER), of (O), stereotactic (B-TREATMENT), body (I-TREATMENT), radiotherapy (I-TREATMENT)] 
+
+
+14. 'Sentence': Dr. Lee suggested that Mrs. Thompson, diagnosed with nasopharyngeal carcinoma, undergo a course of 70 Gy proton beam therapy, which has the potential to minimize damage to her surrounding brain tissues.
+
+
+'Tokens': [Dr., Lee, suggested, that, Mrs., Thompson,, diagnosed, with, nasopharyngeal, carcinoma,, undergo, a, course, of, 70, Gy, proton, beam, therapy,, which, has, the, potential, to, minimize, damage, to, her, surrounding, brain, tissues]
+
+
+'NER tags': [Dr. (B-PERSON), Lee (I-PERSON), suggested (O), that (O), Mrs. (B-PERSON), Thompson, (I-PERSON), diagnosed (O), with (O), nasopharyngeal (B-DISEASE), carcinoma, (I-DISEASE), undergo (O), a (O), course (O), of (O), 70 (B-NUMBER), Gy (I-NUMBER), proton (B-TREATMENT), beam (I-TREATMENT), therapy, (I-TREATMENT), which (O), has (O), the (O), potential (O), to (O), minimize (O), damage (O), to (O), her (O), surrounding (O), brain (B-ANATOMY), tissues (I-ANATOMY)]
+
+
+15. 'Sentence': In a study led by Dr. Turner, it was revealed that patients with non-small cell lung cancer responded better to stereotactic ablative radiotherapy than traditional radiotherapy, showing decreased tumor growth and improved survival rates.
+
+
+'Tokens': [In, a, study, led, by, Dr., Turner,, it, was, revealed, that, patients, with, non-small, cell, lung, cancer, responded, better, to, stereotactic, ablative, radiotherapy, than, traditional, radiotherapy,, showing, decreased, tumor, growth, and, improved, survival, rates]
+
+
+'NER tags': [In (O), a (O), study (O), led (O), by (O), Dr. (B-PERSON), Turner, (I-PERSON), it (O), was (O), revealed (O), that (O), patients (O), with (O), non-small (B-DISEASE), cell (I-DISEASE), lung (I-DISEASE), cancer (I-DISEASE), responded (O), better (O), to (O), stereotactic (B-TREATMENT), ablative (I-TREATMENT), radiotherapy (I-TREATMENT), than (O), traditional (B-TREATMENT), radiotherapy, (I-TREATMENT), showing (O), decreased (B-OUTCOME), tumor (I-OUTCOME), growth (I-OUTCOME), and (O), improved (B-OUTCOME), survival (I-OUTCOME), rates (I-OUTCOME)]
+
+
+16. 'Sentence': The clinical trial led by Dr. Green found that using 40 Gy of brachytherapy in patients with cervical cancer led to a significant reduction in tumor size and improved the patients' quality of life.
+
+
+'Tokens': [The, clinical, trial, led, by, Dr., Green, found, that, using, 40, Gy, of, brachytherapy, in, patients, with, cervical, cancer, led, to, a, significant, reduction, in, tumor, size, and, improved, the, patients', quality, of, life]
+
+
+'NER tags': [The (O), clinical (O), trial (O), led (O), by (O), Dr. (B-PERSON), Green (I-PERSON), found (O), that (O), using (O), 40 (B-NUMBER), Gy (I-NUMBER), of (O), brachytherapy (B-TREATMENT), in (O), patients (O), with (O), cervical (B-DISEASE), cancer (I-DISEASE), led (O), to (O), a (O), significant (B-OUTCOME), reduction (I-OUTCOME), in (O), tumor (B-OUTCOME), size (I-OUTCOME), and (O), improved (B-OUTCOME), the (O), patients' (O), quality (I-OUTCOME), of (I-OUTCOME), life (I-OUTCOME)]
+
+
+17. 'Sentence': After 35 sessions of intensity-modulated radiation therapy (IMRT) delivering a total of 70 Gy, Mrs. Clark's advanced-stage cervical cancer showed marked signs of regression, alleviating her persistent lower abdominal pain.
+
+
+'Tokens': [After, 35, sessions, of, intensity-modulated, radiation, therapy, (IMRT), delivering, a, total, of, 70, Gy,, Mrs., Clark's, advanced-stage, cervical, cancer, showed, marked, signs, of, regression,, alleviating, her, persistent, lower, abdominal, pain]
+
+
+'NER tags': [After (O), 35 (B-NUMBER), sessions (O), of (O), intensity-modulated (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), (IMRT) (I-TREATMENT), delivering (O), a (O), total (O), of (O), 70 (B-NUMBER), Gy, (I-NUMBER), Mrs. (B-PERSON), Clark's (I-PERSON), advanced-stage (B-DISEASE), cervical (I-DISEASE), cancer (I-DISEASE), showed (O), marked (B-OUTCOME), signs (I-OUTCOME), of (O), regression, (B-OUTCOME), alleviating (O), her (O), persistent (B-OUTCOME), lower (I-ANATOMY), abdominal (I-ANATOMY), pain (I-OUTCOME)]
+
+
+18. 'Sentence': Dr. Foster, a leading radiation oncologist, recommends a course of 60 Gy of brachytherapy for Mr. Gibson who is diagnosed with localized prostate cancer, keeping a keen eye on the potential side effects on the urinary and bowel functions.
+
+
+'Tokens': [Dr., Foster,, a, leading, radiation, oncologist,, recommends, a, course, of, 60, Gy, of, brachytherapy, for, Mr., Gibson, who, is, diagnosed, with, localized, prostate, cancer,, keeping, a, keen, eye, on, the, potential, side, effects, on, the, urinary, and, bowel, functions]
+
+
+'NER tags': [Dr. (B-PERSON), Foster, (I-PERSON), a (O), leading (O), radiation (O), oncologist, (O), recommends (O), a (O), course (O), of (O), 60 (B-NUMBER), Gy (I-NUMBER), of (O), brachytherapy (B-TREATMENT), for (O), Mr. (B-PERSON), Gibson (I-PERSON), who (O), is (O), diagnosed (O), with (O), localized (B-DISEASE), prostate (I-DISEASE), cancer, (I-DISEASE), keeping (O), a (O), keen (O), eye (O), on (O), the (O), potential (O), side (O), effects (O), on (O), the (B-ANATOMY), urinary (I-ANATOMY), and (I-ANATOMY), bowel (I-ANATOMY), functions (O)]
+
+
+19. 'Sentence': Dr. Murphy prescribes 50 Gy of stereotactic body radiotherapy (SBRT) for Mr. Davis, who has stage II pancreatic cancer, to target the tumor while reducing harm to the surrounding healthy pancreas tissue.
+
+
+'Tokens': [Dr., Murphy, prescribes, 50, Gy, of, stereotactic, body, radiotherapy, (SBRT), for, Mr., Davis,, who
+
+
+, has, stage, II, pancreatic, cancer,, to, target, the, tumor, while, reducing, harm, to, the, surrounding, healthy, pancreas, tissue]
+
+
+'NER tags': [Dr. (B-PERSON), Murphy (I-PERSON), prescribes (O), 50 (B-NUMBER), Gy (I-NUMBER), of (O), stereotactic (B-TREATMENT), body (I-TREATMENT), radiotherapy (I-TREATMENT), (SBRT) (I-TREATMENT), for (O), Mr. (B-PERSON), Davis, (I-PERSON), who (O), has (O), stage (B-DISEASE), II (I-DISEASE), pancreatic (I-DISEASE), cancer, (I-DISEASE), to (O), target (O), the (O), tumor (O), while (O), reducing (O), harm (O), to (O), the (O), surrounding (B-ANATOMY), healthy (I-ANATOMY), pancreas (I-ANATOMY), tissue (I-ANATOMY)]
+
+
+20. 'Sentence': A total of 66 Gy delivered through intensity-modulated radiation therapy (IMRT) was recommended by Dr. Smith for the treatment of Mrs. Evans' locally advanced oropharyngeal cancer, aiming to manage potential damage to the nearby salivary glands and throat tissue.
+
+
+'Tokens': [A, total, of, 66, Gy, delivered, through, intensity-modulated, radiation, therapy, (IMRT), was, recommended, by, Dr., Smith, for, the, treatment, of, Mrs., Evans', locally, advanced, oropharyngeal, cancer,, aiming, to, manage, potential, damage, to, the, nearby, salivary, glands, and, throat, tissue]
+
+
+'NER tags': [A (O), total (O), of (O), 66 (B-NUMBER), Gy (I-NUMBER), delivered (O), through (O), intensity-modulated (B-TREATMENT), radiation (I-TREATMENT), therapy (I-TREATMENT), (IMRT) (I-TREATMENT), was (O), recommended (O), by (O), Dr. (B-PERSON), Smith (I-PERSON), for (O), the (O), treatment (O), of (O), Mrs. (B-PERSON), Evans' (I-PERSON), locally (B-DISEASE), advanced (I-DISEASE), oropharyngeal (I-DISEASE), cancer, (I-DISEASE), aiming (O), to (O), manage (O), potential (O), damage (O), to (O), the (B-ANATOMY), nearby (I-ANATOMY), salivary (I-ANATOMY), glands (I-ANATOMY), and (I-ANATOMY), throat (I-ANATOMY), tissue (I-ANATOMY)]
