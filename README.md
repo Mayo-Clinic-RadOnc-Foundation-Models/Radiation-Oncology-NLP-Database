@@ -92,6 +92,6 @@ This project is licensed under the Apache 2.0 License. See [LICENSE.md](LICENSE.
 
 ## Contact
 
-Zhengliang Liu (zl18864@uga.edu)
+Please contact zl18864@uga.edu for licensing and other non-technical queries. 
 
 If you have any questions, issues, or suggestions, please feel free to reach out to us through [GitHub Issues](https://github.com/your_username_/radiation-oncology-nlp-database/issues).
