@@ -25,6 +25,16 @@ Question,Answer
 "24. For megavoltage photon beams, the absorbed dose in bone is slightly higher [LC17]than that in soft tissue because of the predominance of the Compton effect.",no
 "25. All recent calibration protocols (TG-21, TG-51, and IAEA TRS-398) use Bragg-Gray cavity theory.",yes
 "26. In TG-51, beam quality for photon [LC18]beam is specified by the depth of 50% dose in water (R50).",no
+"27. During annual scanning, after a long irradiation using 6 MV photons, there will be appreciable neutron activation that has occurred in the collimator head of the LINAC.", no
+"28. Under conditions of transient charged partical equilibrium, dose is equal to collision KERMA.", no
+"29. A TLD's thermoluminescent signal decreases over time following an exposure to irradiation.", yes
+"30. It is recommended to utilize a manufacturer's default CT number to electron density curve for heterogeneity corrections.", no
+"31. When fusing a pre-sugical operation cranial MRI image set witha post-operation MRI image set, a rigid image registration would be sufficient.", yes
+"32. For proper functioning, a cyclotron requires the presence of both a constant and in frequency electric and magnetic fields.", yes
+"33. The most important feature when choosing a material to make an electron target is the Z of the material for efficient bremsstralung production.", no
+"34. In the ionization chamber region on the Gas Amplification Curve, there is a significant advantage in that output current is largely independent of the detector operating voltage.", yes
+"35. Rigid image registration uses a transformation model applied between two or more image sets that uses only global translations and rotations.", yes
+"36. For very high energy photon beams of about 25 MeV and higher when considering heterogeneity corrections in a patient the electron density matters less than the atomic number.",yes
 "37. In TG-51, beam quality for electron [LC19]beam is specified by percent depth dose for the electron [LC20]component of the beam at 10cm depth in water.",no
 38. TLD response is almost independent of energy in the megavoltage range of photon and electron beams used clinically.,yes
 39. The TLD dosimeter form and size are independent of[LC21] dosimetry for certain beams and irradiation conditions.,no
